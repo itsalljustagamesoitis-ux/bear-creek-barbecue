@@ -1,0 +1,33 @@
+site:
+  slug: bear-creek-barbecue
+  domain: bearcreekbarbecue.com
+  brand_name: Bear Creek Barbecue
+  tagline: The equipment guide for everyone who isn't a pitmaster
+  description: outdoor cooking & barbecue equipment
+  niche: outdoor cooking & barbecue equipment
+affiliate:
+  amazon_tracking_id: bearcreekbbq-20
+analytics:
+  ga4_measurement_id: G-742CEG3NG0
+persona:
+  config_path: config/personas/brian.yaml
+visual:
+  primary_color: '#1F1F1F'
+  accent_color: '#D9531E'
+  background_color: '#F5F1EB'
+  font_headings: Fraunces
+  font_body: Inter
+  slots: 5
+images:
+  base_url: /images
+style_policy:
+  word_count:
+    min: 2000
+    max: 3500
+  dollar_figures:
+    allowed: true
+  buying_guide_heading:
+    style: Buying Guide
+  in_body_images:
+    policy: none
+    fixed_count: null

@@ -1,0 +1,52 @@
+categories:
+  - slug: smokers
+    label: Smokers
+    hubs:
+      - slug: offset-smokers
+        label: Offset Smokers
+        articles: []
+      - slug: pellet-smokers
+        label: Pellet Smokers
+        articles: []
+      - slug: electric-smokers
+        label: Electric Smokers
+        articles: []
+      - slug: kamado-grills
+        label: Kamado Grills
+        articles: []
+      - slug: propane-smokers
+        label: Propane Smokers
+        articles: []
+  - slug: grills
+    label: Grills
+    hubs:
+      - slug: gas-grills
+        label: Gas Grills
+        articles: []
+      - slug: charcoal-grills
+        label: Charcoal Grills
+        articles: []
+      - slug: portable-grills
+        label: Portable Grills
+        articles: []
+      - slug: griddles
+        label: Griddles
+        articles: []
+      - slug: flat-top-grills
+        label: Flat-Top Grills
+        articles: []
+  - slug: outdoor-cooking
+    label: Outdoor Cooking
+    hubs:
+      - slug: pizza-ovens
+        label: Pizza Ovens
+        articles: []
+  - slug: accessories
+    label: Accessories
+    hubs:
+      - slug: thermometers
+        label: Thermometers
+        articles: []
+      - slug: tools-and-grates
+        label: Tools & Grates
+        articles: []
