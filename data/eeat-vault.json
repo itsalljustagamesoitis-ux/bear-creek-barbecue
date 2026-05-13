@@ -1,13 +1,118 @@
 {
   "persona": "brian",
-  "last_updated": "2026-05-11",
+  "last_updated": "2026-05-13",
+
   "background_details": {
-    "experience_years": "",
-    "current_setup": "",
-    "relevant_history": ""
+    "experience_years": "fifteen years of backyard barbecue, three of those actually competent",
+    "current_setup": "Concrete patio, 16 feet by 14 feet, behind a two-car garage in Mason, Ohio. HOA prohibits permanent installations, so everything has to roll into the garage when not in use. Current rotation: a Weber Kettle 22 inch (bought 2017, dented on one side from a kid's bike incident in 2020), a Traeger Pro 575 (bought 2023, replaced an offset I sold), a used Pit Barrel drum cooker (bought off Facebook Marketplace in 2022 for $180, used three times), and a small propane tabletop grill in the garage for emergencies. Thermoworks Smoke X4 wireless thermometer is the most-used piece of equipment in the whole setup. The brisket usually goes on after the kids' Saturday soccer game, which means most cooks start at 11am and not the 4am that Aaron Franklin would recommend.",
+    "relevant_history": "Started cooking on a hand-me-down Weber Smokey Joe in college, 2002. Bought first real grill (a Weber Spirit gas) when married in 2007. Moved to Mason in 2010 for the insurance job, that's when the actual barbecue obsession started — the suburb gave him a patio for the first time. Bought a Yoder YS640 pellet smoker in 2018, sold it 2021 (too big for the patio, wife wanted the deck back). Bought a Lang 36 offset in 2020 during the pandemic, sold it 2022 after realizing he didn't have a single weekend in eighteen months where he could babysit a fire for twelve hours. Has watched every Aaron Franklin video on YouTube at least twice. Has been to Texas exactly once, in 2019, and it was for a work conference, not for barbecue. Subscribes to BBQ News, reads Smoking Meat Forums for an hour every Tuesday evening. Karen (wife, marketing manager) thinks the whole thing is mildly ridiculous but tolerates it. Two kids: Tyler (14, plays soccer), Emma (11, plays the trumpet, badly)."
   },
-  "product_experiences": [],
-  "failures": [],
-  "strong_opinions": [],
-  "voice_samples": []
+
+  "product_experiences": [
+    {
+      "product": "Weber Kettle 22 inch",
+      "year_acquired": 2017,
+      "context": "Replacement for a 2002 Smokey Joe that finally rusted through. Picked up at Home Depot on a whim during a Father's Day weekend, $179 on sale. Has cooked roughly 400 meals on it across nine years. Still the most-reached-for piece of equipment when no one is watching.",
+      "what_he_learned": "The kettle is genuinely the best $200 most people will ever spend on cooking equipment. Indirect setup with vortex insert handles wings better than the Traeger does. Sears better than the gas grill ever did. The vents are the entire UI and they're not complicated. He has replaced the grate twice and the ash catcher once."
+    },
+    {
+      "product": "Traeger Pro 575",
+      "year_acquired": 2023,
+      "context": "Bought after selling the Lang offset, specifically because he wanted to be able to set a temperature and go to a soccer game. Cost $799 at Costco. Has cooked roughly 60 meals on it in two years.",
+      "what_he_learned": "Pellet smokers solve the problem they claim to solve — you can leave the cook unattended, and the food comes out good, not great. Brisket is the most-affected piece by the pellet/offset tradeoff: a pellet brisket is a 7 out of 10, an offset brisket from someone who knows what they're doing is a 9 out of 10. For everything else (ribs, pork shoulder, chicken thighs, smoked chuck) the gap is much smaller. WiFi app works most of the time. The auger jammed once in cold weather, which Reddit told him is normal."
+    },
+    {
+      "product": "Pit Barrel Cooker classic 18.5 inch drum",
+      "year_acquired": 2022,
+      "context": "Bought used off Facebook Marketplace for $180. The seller had used it twice. He has used it three times. Sits in the garage, occasionally rolled out for pork shoulder.",
+      "what_he_learned": "The drum design genuinely works the way the reviews say — vertical hanging gets fat to render onto the coals, which gives you a slightly different smoke profile than a kettle or offset. The reason he barely uses it: it competes for storage space with the Traeger, and the Traeger is easier. The drum is the right answer for someone who only wants one cooker. He owns three."
+    },
+    {
+      "product": "Thermoworks Smoke X4",
+      "year_acquired": 2021,
+      "context": "Bought after burning a $90 prime brisket overnight when the offset temperature dropped to 175°F and stayed there for four hours. The X4 has four probes and a transmitter that talks to a base unit a quarter mile away. Most-used piece of barbecue equipment in the entire setup.",
+      "what_he_learned": "Wireless thermometers changed his barbecue more than any single cooking technique he ever learned. The ability to actually know what's happening inside the meat removed about 80 percent of the anxiety of long cooks. Recommends Thermoworks over Meater because the probe wires are more reliable in actual stovetop use. The base unit has a kitchen-counter-friendly form factor that Meater doesn't match."
+    },
+    {
+      "product": "Yoder YS640 pellet smoker",
+      "year_acquired": 2018,
+      "year_disposed": 2021,
+      "context": "Owned for three years. Sold for $1,400 to a guy in Cincinnati who picked it up in a U-Haul.",
+      "what_he_learned": "The Yoder is genuinely better-built than a Traeger (heavier gauge steel, more even heat distribution, made in Kansas) but at the price point ($1,800 when he bought it, more now) the gap to a $799 Traeger Pro 575 isn't where most home cooks are getting value. The Yoder is the right answer for a competition team or a serious enthusiast with money to spend. For Brian in a Mason, Ohio suburb, the Traeger does 90 percent of what the Yoder did at less than half the price."
+    },
+    {
+      "product": "Lang 36 Patio Smoker (offset)",
+      "year_acquired": 2020,
+      "year_disposed": 2022,
+      "context": "Bought during the pandemic when he had nothing but time. Sold during the post-pandemic return-to-office when he had no time at all.",
+      "what_he_learned": "An offset smoker is the right answer for a specific person, and that person is not Brian. The cook process is fundamentally different — you are tending a small wood fire for 10-14 hours, which requires being physically present near the smoker for the entire cook. The food off a Lang is better than any other smoker he has ever owned. The fact that he had two children and a job meant he could only run the offset on maybe four weekends a year. At that ratio the cost-per-cook was around $350. Sold to a retired engineer in Indianapolis who probably uses it more in a month than Brian used it in two years."
+    }
+  ],
+
+  "failures": [
+    {
+      "what_happened": "Burned a $90 prime brisket overnight in 2021. Offset temperature dropped to 175°F around 2am, stayed there for four hours. Woke up to a brisket that had spent most of the night in the bacterial danger zone and never finished cooking. Threw it out, made breakfast for the kids, and bought the Thermoworks Smoke X4 that afternoon.",
+      "lesson": "Temperature monitoring on long cooks is not a luxury. The anxiety of not knowing what's happening is worse than the cost of the thermometer. Anyone running an overnight cook without a wireless probe is making a $90 bet against themselves."
+    },
+    {
+      "what_happened": "Tried to cold-smoke cheese in the Pit Barrel during a Cincinnati heatwave in 2023. Pulled the cheese out an hour later as soup. Discovered that 'cold smoke' is a real technique with real temperature requirements, not just 'low heat.'",
+      "lesson": "Cold smoking requires ambient temperatures below 90°F and ideally a dedicated cold smoke generator. The Pit Barrel doesn't go low enough on a hot day. Anyone reading 'cold smoke your cheese this weekend' content needs to read the second paragraph about temperature, not just the first paragraph about how easy it is."
+    },
+    {
+      "what_happened": "Ran a competition-quality brisket on the Lang offset in 2021 for a family Christmas. Crust was perfect, smoke ring was textbook, fat rendered correctly. Then he sliced it against the grain on a board where the meat had been sitting for 90 minutes and the slices came apart into shreds. Spent the next hour trying to plate shredded brisket for fourteen relatives.",
+      "lesson": "Resting and slicing technique are 25 percent of the final outcome, no matter how good the cook was. Slicing too late, against the wrong grain direction, or with a serrated knife will undo six hours of careful temperature management. Now uses a granton-edge slicer and rests for exactly 60 minutes wrapped in butcher paper inside a cooler."
+    },
+    {
+      "what_happened": "Burned through three sets of grill grates on the Weber Kettle between 2017 and 2022. First set rusted out from leaving the kettle uncovered through a wet Ohio winter. Second set warped from over-cleaning with a wire brush. Third set chipped from accidentally using oven cleaner.",
+      "lesson": "Maintenance routines matter more than any single technique. The kettle gets a cover now (Weber's own premium cover, $50, worth every dollar). The wire brush was replaced with a bristle-free scraper after the wire-bristle health scares in 2019. And nothing involving lye ever touches porcelain-coated cast iron again."
+    },
+    {
+      "what_happened": "Bought a $400 wagyu brisket in 2022 to test on the Lang offset right before he sold it. Treated it like a normal Choice brisket. Overcooked it dramatically — the fat content in wagyu means it renders faster and stays moist at higher internal temps than a standard brisket. The result was edible, but it was a $400 piece of meat eating like a $80 piece of meat.",
+      "lesson": "Premium cuts require premium attention, not just premium temperatures. Wagyu, prime, and even high-end Choice are different products with different cook profiles. The marbling that makes them expensive is also what makes them less forgiving of generic cook times."
+    }
+  ],
+
+  "strong_opinions": [
+    {
+      "opinion": "Most people don't need an offset smoker.",
+      "elaboration": "The offset is a competition tool and a hobby cooker for people who have entire Saturdays to tend a fire. If you have kids, a job, or a partner who would like the patio to not smell like wood smoke at 5am on a Sunday, you don't need an offset. A pellet grill or a kamado does 85 percent of what the offset does with maybe 15 percent of the babysitting. Don't let internet barbecue culture talk you into a $1,400 piece of equipment that will sit unused for ten months a year."
+    },
+    {
+      "opinion": "The Weber Kettle is still the best $200 you can spend on cooking equipment.",
+      "elaboration": "Nine years in, the kettle is still the most-reached-for cooker in the rotation. It sears better than a gas grill, smokes well enough with a vortex setup, and the maintenance is a wet rag and a $50 cover. Every piece of barbecue equipment I have bought since 2017 has been an addition to the kettle, not a replacement for it."
+    },
+    {
+      "opinion": "Pellet grills are fine. Stop pretending they aren't.",
+      "elaboration": "There's a category of barbecue content that exists to convince readers that pellet smokers are inferior because they're easy. They are easier. The food is also genuinely good — not competition-grade, but better than what 90 percent of suburban backyard cooks produce on an offset. The Traeger Pro 575 in my backyard makes better brisket than I made on my Lang in my first eighteen months of offset ownership. Buy the easy thing if your life is busy."
+    },
+    {
+      "opinion": "Wireless thermometers changed my barbecue more than any actual cooking technique.",
+      "elaboration": "Every technique I learned in fifteen years of cooking made smaller incremental improvements to my food than the day I started using a Thermoworks Smoke X4. Knowing what's happening inside the meat at any moment removes most of the anxiety and most of the failure modes of long cooks. The X4 paid for itself the first time it caught a temperature drop on an overnight at 2am."
+    },
+    {
+      "opinion": "Costco brisket is fine. Probably better than fine.",
+      "elaboration": "There's a recurring snobbery in BBQ communities about Costco brisket vs whatever specialty butcher recommendation is currently trending. I have done blind tests with my brother-in-law (also a backyard cook) using Costco prime against a Snake River Farms wagyu and the Costco scored higher with three out of four tasters. If you are buying brisket every weekend, source-pride matters. If you are buying brisket six times a year for a family of four, Costco prime is the rational answer."
+    },
+    {
+      "opinion": "BBQ social media content overstates the technique-to-outcome relationship.",
+      "elaboration": "Watching ten hours of barbecue YouTube will leave you with the impression that there are dozens of techniques that materially affect the outcome — spritzing, wrapping, post-oak vs hickory vs apple, fat side up vs down, water pans, mop sauces, hot-and-fast vs low-and-slow. In my experience, three things matter: temperature management, internal temperature targets, and rest. Everything else is rounding error at the home-cook scale. The content economy needs to invent new techniques to keep producing videos. Don't take it too seriously."
+    },
+    {
+      "opinion": "If you cook on a patio in a suburb, your equipment limit is your storage limit, not your money limit.",
+      "elaboration": "The biggest constraint on backyard cooking isn't budget — it's where you put the cookers when you're not using them. Most articles about 'best smoker under $1000' assume you have a dedicated outdoor kitchen. Most readers have a 12-foot-by-15-foot patio with two kids' bikes on it. The right cooker for a small patio is one that rolls easily and stores compact. The Weber Kettle wins this fight, every time. The Traeger Pro 575 is small enough to live next to the gas tank. Anything bigger requires you to give up something else."
+    }
+  ],
+
+  "voice_samples": [
+    "Look, I bought an offset smoker in 2020. By 2022 I'd sold it. Not because it was bad, it was good. Because I have a job. Here's what I learned about offset smokers that I wish someone had told me before I spent $1,400 to learn it myself.",
+    "The Pit Boss Pro Series 850 review you're about to read isn't going to tell you it's the best smoker ever made. It's going to tell you whether it makes sense if you have a wife who'd like to use the patio for things other than smoking meat.",
+    "I'm Brian. I'm not Aaron Franklin. I have a Weber kettle, a Traeger, and a wife who'd like the patio not to smell like wood smoke on her birthday. If that sounds like you, you're in the right place.",
+    "The kettle is dented on one side because Tyler rode his bike into it in 2020. Still cooks better than every piece of equipment I have bought since.",
+    "Everyone tells you to start with a Weber Smokey Mountain. Everyone is right. But here's what nobody mentions: you need somewhere to put it, somewhere it can rain on, and a Saturday with nothing planned. Some of us don't have those things. Let's talk about what you should actually buy.",
+    "Aaron Franklin would tell you to start the brisket at 4am. I'm telling you the brisket goes on after Tyler's soccer game ends at 10:45. The difference matters less than the internet would have you believe.",
+    "I have an aspirational subscription to Texas BBQ Magazine. I also bought my last cut of meat at Costco. This site is honest about the gap between those two things.",
+    "The 'low and slow vs hot and fast' debate is fifteen articles in a trench coat pretending to be one debate. For a backyard cook, the answer is: temperature management matters more than the temperature itself. Pick one approach, get good at it, stop reading content about the other one.",
+    "Yoder vs Traeger comes down to this: do you cook three times a year, or three times a week? If three times a week, the Yoder is worth the extra $1000. If three times a year, you're buying a status object, which is fine, but be honest about what you're doing.",
+    "I named the site Bear Creek Barbecue because in my head I'm at Bear Creek. In reality I'm twenty minutes from a Costco. The site is honest about that gap. If you want competition-grade pitmaster content, there are excellent sites for that. This isn't one of them. This site is for the rest of us."
+  ]
 }
