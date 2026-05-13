@@ -569,7 +569,7 @@ dyna-glo-dgy784bdp-36-vertical-lp-gas:
   title: Dyna-Glo DGY784BDP 36" Vertical LP Gas Smoker, Black powder coat
   asin: B007YX9KRU
   brand: Dyna-Glo
-  hub: offset-smokers
+  hub: propane-smokers
   source_url: https://www.amazon.com/Dyna-Glo-DGY784BDP-Vertical-Gas-Smoker/dp/B007YX9KRU/ref=sr_1_9?dib=eyJ2IjoiMSJ9.-OPq3C6vuNo8ESUpJBaDKisYARR_H-PRrrR7oX-PAxGMGw0QtrSDNjNm50rL_XNS-TpCD27jfXrilwyM8UIMxs9V20hvNJ1kxMJgmvXScEMef53rA6shrRB4ont58E90irIicdDfhTaV0G1moBKdVoEzp6YqwAW6j4zeHbKPr550EfgvNUCOYixILE2YeozKwH7l1CIwntuRSojbuG-HtxBMrfa6iIP2V5pmkFSPHLQ.EobMctgiE1GpsLgkxCsx4W1UmagI_8QG3aBTWLCxqeE&dib_tag=se&keywords=dyna+glo+offset+smoker&qid=1778700471&sr=8-9
   sourced_at: '2026-05-13T19:26:24.000Z'
   confidence: 0.75
@@ -1073,7 +1073,7 @@ pit-boss-3-series-gas:
   title: Pit Boss 3-Series Gas Vertical Smoker, Red Hammertone - 10773
   asin: B09F6ZT4XT
   brand: null
-  hub: pellet-smokers
+  hub: propane-smokers
   source_url: https://www.amazon.com/PIT-BOSS-PBV3G1-Vertical-Hammertone/dp/B09F6ZT4XT/ref=sr_1_14?dib=eyJ2IjoiMSJ9.MJ97zVRzEr77ytlM2m0MrMvmhdm_7B9FvEgZRK6u0caqGWRRiFBW7pWqXUIZdigI6e8ViLNMxPiPxUTpajzJCvC623fh05rTnQtWBvpMWfxbBDRe1th8Crz_-Ag2QIDgnZ-spTIxDqScTk7Ye7r5N12n9lHUDW2LCUz2cRzOoCn1XIN4dYyYAMUJfS24PrGiZPipu5sN6oQeThuLPHgybxH0gLX9E43kCa0iZ5uh37o.5FglL8wJRKAi_6REsnlcPLVWpBeqJn4iNObi5JENj_U&dib_tag=se&keywords=vertical+pellet+smoker&qid=1778700513&sr=8-14
   sourced_at: '2026-05-13T19:26:24.000Z'
   confidence: 0.75
@@ -1889,7 +1889,7 @@ masterbuilt-40-inch-thermotemp-propane-gas:
     Inches in Black, Model MB20051316
   asin: B07NQPLB1Q
   brand: Masterbuilt
-  hub: electric-smokers
+  hub: propane-smokers
   source_url: https://www.amazon.com/Masterbuilt-MB20051316-Thermotemp-Propane-Smoker/dp/B07NQPLB1Q/ref=sr_1_5?dib=eyJ2IjoiMSJ9.t3XnlBTai6dCzUn_XxCgHVzPlB803TBHw_stHiL7AdkHFotWaTHGWXIG4umOG-VwniozOmjG9CT8GhqcbThwgXH8JYgIz3YPu9hihygAkbDGlCtLWaLckad-1TyynMFMHfmLrNpl-Xk_2V1JmySTqVUivGLWe3-fb9TjjFZN8DNyfBLW1aExmw9SBGMvNIUBBI2i1hlFl6Vd5ZLL0g-OAv6vJt1Il3UW0vFRXq9ZVOc.UbOqx60a8v6hzTYlgaG-uTG4OLOSTQlzVvCbhfbls1k&dib_tag=se&keywords=masterbuilt+40-inch+digital+electric+smoker&qid=1778700646&sr=8-5
   sourced_at: '2026-05-13T19:26:24.000Z'
   confidence: 0.75
@@ -11905,3 +11905,18 @@ weber-premium-outdoor-grill-cover-3:
   default_cons:
   - Cover-only solution requires separate grill purchase
   - Limited to Genesis 400 compatibility reduces versatility
+masterbuilt-gs30d-propane-2-door-smoker:
+  title: Masterbuilt GS30D Propane 2-Door Smoker
+  asin: B00SUE7RE0
+  brand: Masterbuilt
+  hub: propane-smokers
+  source_url: https://www.amazon.com/Masterbuilt-GS30D-Propane-2-Door-Smoker/dp/B00SUE7RE0/ref=sr_1_9?dib=eyJ2IjoiMSJ9.a_j01G4VhFMqJzzhYkx780XkyY_MaQg8nuu-ET9WVhjC5-KaoL-yob_5t_0uKaBausUdn0KftoEV1LaetCuS1UaPr0gL6N-7cSyb4WEO5wspIJIrcy6U8NLmpvdoRtM8n8PvshLb4hlnt1tzpR_pirFYMh_5euReDJIJDx0SltGh9H2Clyca5oWPS8sFdNLl5rxzM1UevpWdc6YFjLcJd_9gn5AHzzQMOwGadP-5pnc.HbCSebVtBzu623Zmb-_x0TMkeuzkzEXJumiG9Q46EA8&dib_tag=se&keywords=masterbuilt+cookmaster+propane+smoker&qid=1778705020&sr=8-9
+  sourced_at: '2026-05-13T20:43:39.000Z'
+  confidence: 0.75
+  default_pros:
+  - Two-door design allows easier access and heat management
+  - Propane fuel provides consistent temperature control
+  - Masterbuilt brand established reputation in smoking category
+  default_cons:
+  - Propane smokers require regular fuel tank refills and monitoring
+  - Larger capacity models typically cost more than smaller alternatives

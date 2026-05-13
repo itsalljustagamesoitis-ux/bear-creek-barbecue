@@ -96,7 +96,6 @@
         "recteq-pellet-grill-rt-b380x",
         "royal-gourmet-cc1830s-bbq-charcoal",
         "oklahoma-joes-longhorn-reverse-flow",
-        "recteq-pellet-grill-rt-b380x",
         "charbroil-the-big-easy-tru",
         "recteq-pellet-grill-rt-b380",
         "masterbuilt-gravity-series-800-smoker"
@@ -133,7 +132,6 @@
         "grill-cover-for-oklahoma-joes",
         "oklahoma-joes-longhorn-reverse-flow",
         "amazon-basics-16-inch-vertical",
-        "grill-cover-for-oklahoma-joes",
         "traeger-ironwood-885-wood-pellet",
         "oklahoma-joe-s-highland-offset",
         "oklahoma-joes-highland-offset-smoker"
@@ -183,7 +181,9 @@
       "locked_url": null,
       "required_product_count": null,
       "ai_overview": null,
-      "ai_overview_risk": null
+      "ai_overview_risk": null,
+      "category_label": "Smokers",
+      "staged": true
     },
     {
       "id": 6,
@@ -243,9 +243,7 @@
       "products": [
         "oklahoma-joes-longhorn-reverse-flow",
         "grill-cover-for-oklahoma-joes",
-        "oklahoma-joes-longhorn-reverse-flow",
         "oklahoma-joe-s-highland-offset",
-        "grill-cover-for-oklahoma-joes",
         "oklahoma-joes-highland-offset-smoker",
         "oklahoma-joes-5279338p04-stainless-steel-offset-smoker"
       ],
@@ -283,8 +281,7 @@
         "oklahoma-joes-longhorn-reverse-flow",
         "sophia-william-heavy-duty-charcoal",
         "royal-gourmet-cc2036f-barrel-charcoal",
-        "mfstudio-heavy-duty-charcoal-wood",
-        "mfstudio-heavy-duty-charcoal-wood-2"
+        "mfstudio-heavy-duty-charcoal-wood"
       ],
       "assignment_notes": null,
       "status": "pending",
@@ -355,7 +352,6 @@
         "mfstudio-heavy-duty-charcoal-wood-2",
         "sophia-william-heavy-duty-charcoal",
         "royal-gourmet-cc2036f-barrel-charcoal",
-        "sophia-william-heavy-duty-charcoal",
         "royal-gourmet-cc1830s-bbq-charcoal",
         "mfstudio-heavy-duty-charcoal-wood",
         "royal-gourmet-cc1830w-30-inch"
@@ -467,8 +463,6 @@
         "mfstudio-heavy-duty-charcoal-wood-2",
         "royal-gourmet-cc1830s-bbq-charcoal",
         "royal-gourmet-cc2036f-barrel-charcoal",
-        "mfstudio-heavy-duty-charcoal-wood-2",
-        "sophia-william-heavy-duty-charcoal",
         "2-burner-gas-and-charcoal"
       ],
       "assignment_notes": null,
@@ -505,7 +499,6 @@
         "traeger-ironwood-885-wood-pellet",
         "royal-gourmet-cc1830sc-charcoal-grill",
         "recteq-pellet-grill-rt-b380x",
-        "royal-gourmet-cc1830s-bbq-charcoal",
         "masterbuilt-gravity-series-1050-smoker"
       ],
       "assignment_notes": null,
@@ -578,7 +571,6 @@
         "royal-gourmet-cc1830w-30-inch",
         "mfstudio-heavy-duty-charcoal-wood",
         "traeger-ironwood-885-wood-pellet",
-        "royal-gourmet-cc1830w-30-inch",
         "recteq-pellet-grill-rt-b380x",
         "z-grills-zpg-550b2-wood"
       ],
@@ -764,7 +756,6 @@
         "mfstudio-heavy-duty-charcoal-wood",
         "sophia-william-heavy-duty-vertical",
         "dyna-glo-dgo1890bdc-d-wide",
-        "sophia-william-heavy-duty-charcoal",
         "traeger-ironwood-885-wood-pellet"
       ],
       "assignment_notes": null,
@@ -775,7 +766,9 @@
       "locked_url": null,
       "required_product_count": null,
       "ai_overview": null,
-      "ai_overview_risk": null
+      "ai_overview_risk": null,
+      "category_label": "Smokers",
+      "staged": true
     },
     {
       "id": 22,
@@ -834,7 +827,6 @@
       "h2_structure": null,
       "products": [
         "traeger-grills-pro-22-wood",
-        "z-grills-zpg-550b2-wood",
         "z-grills-zpg-550b2-wood",
         "east-oak-30-electric-smoker",
         "onlyfire-grills-bbq-wood-pellet",
@@ -982,7 +974,6 @@
       "h2_structure": null,
       "products": [
         "recteq-pellet-grill-rt-b380x",
-        "recteq-pellet-grill-rt-b380x",
         "recteq-pellet-grill-rt-b380",
         "recteq-ultimate-premium-hardwood-grilling-cooking",
         "captiva-designs-extra-large-charcoal",
@@ -1023,7 +1014,6 @@
         "traeger-grills-pro-22-wood",
         "z-grills-zpg-450a-wood",
         "pit-boss-500fb2-pellet-grill",
-        "traeger-grills-pro-34-electric",
         "traeger-ironwood-885-wood-pellet"
       ],
       "assignment_notes": null,
@@ -1280,7 +1270,6 @@
         "traeger-grills-pro-34-electric",
         "camp-chef-competition-blend-bbq-pellets-hardwood",
         "z-grills-zpg-450a2-wood",
-        "traeger-grills-pro-34-electric",
         "pit-boss-500fb2-pellet-grill"
       ],
       "assignment_notes": null,
@@ -1316,7 +1305,6 @@
         "traeger-grills-pro-22-wood",
         "z-grills-zpg-550b2-wood",
         "traeger-grills-pro-34-electric",
-        "recteq-pellet-grill-rt-b380x",
         "traeger-grills-woodridge-electric-wood-pellet",
         "traeger-ironwood-885-wood-pellet"
       ],
@@ -1462,8 +1450,6 @@
       "products": [
         "recteq-pellet-grill-rt-b380x",
         "recteq-pellet-grill-rt-b380",
-        "recteq-pellet-grill-rt-b380x",
-        "recteq-pellet-grill-rt-b380",
         "grill-cover-for-recteq-flagship",
         "z-grills-zpg-450a2-wood",
         "recteq-ultimate-premium-hardwood-grilling-cooking"
@@ -1501,7 +1487,6 @@
         "traeger-grills-pro-22-wood",
         "traeger-grills-signature-blend-100",
         "traeger-grills-pro-34-electric",
-        "traeger-ironwood-885-wood-pellet",
         "traeger-grills-woodridge-electric-wood-pellet",
         "traeger-grills-woodridge-pro-electric"
       ],
@@ -1538,7 +1523,6 @@
         "traeger-grills-pro-22-wood",
         "z-grills-zpg-450a2-wood",
         "z-grills-zpg-450a-wood",
-        "traeger-grills-pro-34-electric",
         "traeger-ironwood-885-wood-pellet",
         "pit-boss-500fb2-pellet-grill"
       ],
@@ -1576,8 +1560,7 @@
         "traeger-grills-pro-34-electric",
         "traeger-ironwood-885-wood-pellet",
         "camp-chef-competition-blend-bbq-pellets-hardwood",
-        "traeger-grills-woodridge-electric-wood-pellet",
-        "traeger-grills-pro-34-electric"
+        "traeger-grills-woodridge-electric-wood-pellet"
       ],
       "assignment_notes": null,
       "status": "pending",
@@ -1650,7 +1633,6 @@
         "traeger-ironwood-xl-wood-pellet-smoker",
         "traeger-grills-woodridge-pro-electric",
         "traeger-grills-woodridge-electric-wood-pellet",
-        "traeger-grills-woodridge-pro-electric",
         "qulimetal-grill-cover-for-traeger-timberline"
       ],
       "assignment_notes": null,
@@ -1795,7 +1777,6 @@
       "products": [
         "z-grills-zpg-450a2-wood",
         "z-grills-wood-pellet-grill",
-        "z-grills-zpg-450a2-wood",
         "traeger-grills-pro-22-wood",
         "z-grills-zpg-550b2-wood",
         "traeger-ironwood-885-wood-pellet",
@@ -1945,7 +1926,6 @@
         "masterbuilt-30-inch-digital-electric-2",
         "east-oak-30-electric-smoker-2",
         "masterbuilt-30-inch-digital-electric",
-        "east-oak-30-electric-smoker",
         "meater-plus-smart-bluetooth-wireless",
         "30-inch-electric-smoker-cover"
       ],
@@ -2278,7 +2258,6 @@
         "masterbuilt-30-inch-digital-electric-2",
         "traeger-grills-pro-22-wood",
         "traeger-ironwood-885-wood-pellet",
-        "east-oak-30-electric-smoker",
         "traeger-grills-pro-34-electric",
         "ninja-woodfire-outdoor-grill-smoker"
       ],
@@ -2353,7 +2332,6 @@
         "masterbuilt-40-inch-digital-electric-vertical-2",
         "masterbuilt-30-inch-digital-electric",
         "masterbuilt-40-inch-thermotemp-propane-gas",
-        "40-inch-electric-smoker-cover",
         "9907160014-digital-control-board-thermostat"
       ],
       "assignment_notes": null,
@@ -2612,7 +2590,6 @@
         "masterbuilt-30-inch-digital-electric",
         "east-oak-30-electric-smoker-2",
         "traeger-ironwood-xl-wood-pellet-smoker",
-        "east-oak-30-electric-smoker",
         "recteq-pellet-grill-rt-b380x"
       ],
       "assignment_notes": null,
@@ -3019,7 +2996,6 @@
         "char-griller-akorn-jr-portable",
         "london-sunshine-ceramic-kamado-charcoal",
         "kamado-joe-classic-joe-series-ii-18",
-        "kamado-joe-classic-joe-i-premium-18",
         "typhur-sync-gold-wireless-wifi"
       ],
       "assignment_notes": null,
@@ -3056,7 +3032,6 @@
         "char-griller-akorn-jr-portable",
         "kamado-joe-classic-joe-series-ii-18",
         "london-sunshine-ceramic-kamado-charcoal",
-        "char-griller-akorn-jr-portable",
         "wi-fi-bluetooth-bbq-smoker"
       ],
       "assignment_notes": null,
@@ -3314,7 +3289,6 @@
         "kamado-joe-classic-joe-i-premium-18",
         "kamado-joe-classic-joe-series-ii-18",
         "weber-summit-kamado-e6-charcoal-grill",
-        "kamado-joe-classic-joe-i-premium-18",
         "kamado-joe-joe-jr-13-5-inch",
         "kamado-joe-big-block-xl-premium-100"
       ],
@@ -3437,7 +3411,9 @@
       "locked_url": null,
       "required_product_count": null,
       "ai_overview": null,
-      "ai_overview_risk": null
+      "ai_overview_risk": null,
+      "category_label": "Smokers",
+      "staged": true
     },
     {
       "id": 94,
@@ -3460,9 +3436,7 @@
       "products": [
         "kamado-joe-classic-joe-series-ii-18",
         "kamado-joe-big-joe-series-i-24",
-        "kamado-joe-classic-joe-series-ii-18",
         "kamado-joe-classic-joe-i-premium-18",
-        "kamado-joe-big-joe-series-i-24",
         "kamado-joe-joe-jr-13-5-inch",
         "kamado-joe-classic-joe-series-18-inch"
       ],
@@ -3608,11 +3582,8 @@
       "products": [
         "propane-smoker-with-cover-vertical",
         "propane-smoker-vertical-smoker-with",
-        "propane-smoker-with-cover-vertical",
         "masterbuilt-40-inch-thermotemp-propane-gas",
-        "masterbuilt-mps-230s-propane-smoker",
-        "propane-smoker-vertical-smoker-with",
-        "propane-smoker-with-cover-vertical"
+        "masterbuilt-mps-230s-propane-smoker"
       ],
       "assignment_notes": null,
       "status": "pending",
@@ -3758,7 +3729,6 @@
         "masterbuilt-40-inch-thermotemp-propane-gas",
         "dyna-glo-dgy784bdp-36-vertical-lp-gas",
         "masterbuilt-mps-230s-propane-smoker",
-        "propane-smoker-vertical-smoker-with",
         "propane-smoker-with-cover-vertical",
         "east-oak-30-electric-smoker"
       ],
@@ -3795,11 +3765,10 @@
         "masterbuilt-mps-230s-propane-smoker",
         "masterbuilt-30-inch-digital-electric",
         "masterbuilt-30-inch-digital-electric-2",
+        "masterbuilt-gravity-series-800-smoker",
         "masterbuilt-40-inch-digital-electric-vertical",
-        "masterbuilt-slow-and-cold-smoker",
-        "masterbuilt-gravity-series-800-smoker"
+        "masterbuilt-gs30d-propane-2-door-smoker"
       ],
-      "assignment_notes": null,
       "status": "pending",
       "hero_image": null,
       "hero_image_alt": null,
@@ -3866,14 +3835,13 @@
       "h2_structure": null,
       "products": [
         "propane-smoker-vertical-smoker-with",
-        "propane-smoker-with-cover-vertical",
         "east-oak-30-electric-smoker-2",
         "masterbuilt-30-inch-electric-vertical",
         "propane-smoker-with-cover-vertical",
-        "stanbroil-replacement-part-electric-smoker",
-        "east-oak-30-electric-smoker"
+        "propane-smoker-vertical-smoker-with",
+        "masterbuilt-40-inch-thermotemp-propane-gas",
+        "masterbuilt-mps-230s-propane-smoker"
       ],
-      "assignment_notes": null,
       "status": "pending",
       "hero_image": null,
       "hero_image_alt": null,
@@ -3918,7 +3886,9 @@
       "locked_url": null,
       "required_product_count": null,
       "ai_overview": null,
-      "ai_overview_risk": null
+      "ai_overview_risk": null,
+      "category_label": "Smokers",
+      "_siblings": []
     },
     {
       "id": 107,
@@ -3945,9 +3915,11 @@
         "royal-gourmet-cc1830s-bbq-charcoal",
         "charbroil-the-big-easy-tru",
         "traeger-grills-pro-22-wood",
-        "royal-gourmet-zh3002n-propane-gas"
+        "royal-gourmet-zh3002n-propane-gas",
+        "masterbuilt-40-inch-thermotemp-propane-gas",
+        "pit-boss-3-series-gas",
+        "dyna-glo-dgy784bdp-36-vertical-lp-gas"
       ],
-      "assignment_notes": null,
       "status": "pending",
       "hero_image": null,
       "hero_image_alt": null,
@@ -3979,12 +3951,11 @@
         "charbroil-the-big-easy-tru",
         "propane-smoker-with-cover-vertical",
         "2-burner-gas-and-charcoal",
-        "charbroil-the-big-easy-tru",
         "propane-smoker-with-cover-vertical",
         "charbroil-the-big-easy-tru",
-        "propane-smoker-vertical-smoker-with"
+        "charbroil-performance-series-4-burner",
+        "char-griller-dual-function-2"
       ],
-      "assignment_notes": null,
       "status": "pending",
       "hero_image": null,
       "hero_image_alt": null,
@@ -4013,7 +3984,6 @@
       "cpc": 0.54,
       "h2_structure": null,
       "products": [
-        "2-burner-gas-and-charcoal",
         "2-burner-gas-and-charcoal",
         "char-griller-dual-function-2",
         "captiva-designs-propane-gas-griddle",
@@ -4054,7 +4024,6 @@
         "charbroil-portable-convective-1-burner",
         "megamaster-1-burner-portable-gas",
         "charbroil-1-burner-portable-gas-grill",
-        "royal-gourmet-gt2006-portable-tabletop",
         "captiva-designs-propane-gas-griddle",
         "cuisinart-petite-gourmet-portable-gas"
       ],
@@ -4129,8 +4098,7 @@
         "sophia-william-4-burner-gas",
         "royal-gourmet-pd3001-3-burner",
         "electactic-g31-gas-grill-3",
-        "tabletop-gas-grill-3-burners",
-        "royal-gourmet-gt2005-2-burner"
+        "tabletop-gas-grill-3-burners"
       ],
       "assignment_notes": null,
       "status": "pending",
@@ -4202,9 +4170,7 @@
         "cuisinart-indoor-outdoor-electric-griddle",
         "charbroil-portable-convective-1-burner",
         "master-cook-10-000-btu",
-        "cuisinart-grillster-portable-gas-grill",
-        "cuisinart-chefs-style-tabletop-portable",
-        "cuisinart-indoor-outdoor-electric-griddle"
+        "cuisinart-chefs-style-tabletop-portable"
       ],
       "assignment_notes": null,
       "status": "pending",
@@ -4240,7 +4206,6 @@
         "royal-gourmet-ga5401t-5-burner",
         "master-cook-3-burner-bbq",
         "rovsun-4-burner-propane-gas",
-        "captiva-designs-6-burner-propane",
         "2-in-1-propane-gas"
       ],
       "assignment_notes": null,
@@ -4350,9 +4315,7 @@
         "sophia-william-charcoal-and-propane",
         "2-burner-gas-and-charcoal",
         "skok-4-burner-3-in",
-        "mfstudio-3-in-1-gas",
-        "sophia-william-charcoal-and-propane",
-        "captiva-designs-propane-gas-grill"
+        "mfstudio-3-in-1-gas"
       ],
       "assignment_notes": null,
       "status": "pending",
@@ -4386,7 +4349,6 @@
         "charbroil-performance-series-4-burner-gas",
         "charbroil-bistro-pro-gas-grill-for",
         "charbroil-pro-series-with-amplifire-infrared",
-        "charbroil-bistro-pro-gas-grill-for",
         "captiva-designs-4-burner-propane-gas-bbq",
         "charbroil-portable-convective-1-burner",
         "charbroil-grill2go-x200-portable-gas-grill"
@@ -4462,8 +4424,7 @@
         "weber-spirit-e-325-liquid",
         "weber-genesis-e-325-liquid",
         "charbroil-pro-series-with-amplifire-infrared",
-        "mfstudio-3-in-1-gas",
-        "sophia-william-4-burner-gas"
+        "mfstudio-3-in-1-gas"
       ],
       "assignment_notes": null,
       "status": "pending",
@@ -4498,9 +4459,7 @@
         "sophia-william-charcoal-and-propane",
         "2-burner-gas-and-charcoal",
         "char-griller-dual-function-2",
-        "sophia-william-charcoal-and-propane",
-        "mfstudio-3-in-1-gas",
-        "captiva-designs-propane-gas-grill"
+        "mfstudio-3-in-1-gas"
       ],
       "assignment_notes": null,
       "status": "pending",
@@ -4571,8 +4530,6 @@
         "propane-gas-grill-with-folding",
         "34-000-btu-3-burner",
         "master-cook-3-burner-bbq",
-        "propane-gas-grill-with-folding",
-        "34-000-btu-3-burner",
         "sophia-william-4-burner-gas",
         "weber-spirit-e-325-liquid"
       ],
@@ -4647,7 +4604,6 @@
         "gasone-gp-1030s-one-3",
         "master-cook-3-burner-bbq",
         "propane-gas-grill-with-folding",
-        "sophia-william-4-burner-gas",
         "captiva-designs-6-burner-propane"
       ],
       "assignment_notes": null,
@@ -4720,9 +4676,7 @@
         "captiva-designs-6-burner-propane",
         "master-cook-3-burner-bbq",
         "cuisinart-chefs-style-tabletop-portable",
-        "hugrove-4-burner-propane-gas",
-        "sophia-william-4-burner-gas",
-        "captiva-designs-6-burner-propane"
+        "hugrove-4-burner-propane-gas"
       ],
       "assignment_notes": null,
       "status": "pending",
@@ -4758,7 +4712,6 @@
         "brand-man-propane-gas-grill",
         "monument-grills-larger-convertible-4",
         "monument-grills-larger-convertible-4-2",
-        "monument-grills-larger-convertible-4",
         "weber-genesis-e-415-natural"
       ],
       "assignment_notes": null,
@@ -5165,8 +5118,7 @@
         "weber-original-kettle-premium-charcoal-grill",
         "royal-gourmet-cc1830s-bbq-charcoal",
         "weber-original-kettle-charcoal-grill-22",
-        "green-party-22-inch-kettle",
-        "mfstudio-extra-large-bbq-charcoal"
+        "green-party-22-inch-kettle"
       ],
       "assignment_notes": null,
       "status": "pending",
@@ -5276,8 +5228,7 @@
         "gas-one-14-inch-portable",
         "cuisinart-14-portable-charcoal-grill",
         "joyfair-portable-charcoal-grill-with",
-        "charcoal-bbq-outdoor-grills-spacious",
-        "green-party-22-inch-kettle"
+        "charcoal-bbq-outdoor-grills-spacious"
       ],
       "assignment_notes": null,
       "status": "pending",
@@ -5572,7 +5523,6 @@
         "kamado-joe-big-joe-series-i-24",
         "kamado-joe-classic-joe-i-premium-18",
         "kamado-joe-joe-jr-13-5-inch",
-        "char-griller-akorn-jr-portable",
         "upgraded-13-inch-ceramic-kamado-2"
       ],
       "assignment_notes": null,
@@ -5645,7 +5595,6 @@
         "weber-original-kettle-charcoal-grill-22",
         "weber-jumbo-joe-premium-charcoal-grill",
         "weber-original-kettle-premium-charcoal-grill",
-        "green-party-22-inch-kettle",
         "char-griller-cg30040725-22-inch",
         "joyfair-kettle-charcoal-grill-18"
       ],
@@ -6200,7 +6149,6 @@
         "royal-gourmet-pd1305h-3-burner",
         "royal-gourmet-pd3001-3-burner",
         "gas-one-14-inch-portable",
-        "royal-gourmet-pd1305h-3-burner",
         "tabletop-gas-grill-3-burners",
         "gasbruh-19-outdoor-portable-propane"
       ],
@@ -7086,7 +7034,6 @@
       "products": [
         "captiva-designs-propane-gas-griddle",
         "blackstone-1883-original-28-griddle",
-        "captiva-designs-propane-gas-griddle",
         "brand-man-griddle-grill-combo",
         "sophia-william-propane-gas-grill",
         "royal-gourmet-pd1305h-3-burner",
@@ -7977,8 +7924,7 @@
         "royal-gourmet-pd4001-4-burner",
         "blackstone-flat-top-gas-grill",
         "royal-gourmet-gb6000-6-burner",
-        "royal-gourmet-pd3001-3-burner",
-        "captiva-designs-propane-gas-griddle"
+        "royal-gourmet-pd3001-3-burner"
       ],
       "assignment_notes": null,
       "status": "pending",
@@ -8013,8 +7959,6 @@
         "royal-gourmet-pd4001-4-burner",
         "3-burner-bbq-gas-griddle",
         "royal-gourmet-pd1305h-3-burner",
-        "royal-gourmet-pd4001-4-burner",
-        "captiva-designs-propane-gas-griddle",
         "spire-premium-5-burner-built"
       ],
       "assignment_notes": null,
@@ -8085,7 +8029,6 @@
       "products": [
         "captiva-designs-propane-gas-griddle",
         "spire-premium-5-burner-built",
-        "captiva-designs-propane-gas-griddle",
         "skyflame-universal-stainless-steel-griddle-flat",
         "vevor-commercial-electric-griddle-22",
         "only-fire-universal-stainless-steel",
@@ -8194,7 +8137,6 @@
       "cpc": 0.64,
       "h2_structure": null,
       "products": [
-        "weber-rust-resistant-outdoor-griddle-insert",
         "weber-rust-resistant-outdoor-griddle-insert",
         "full-size-griddle-inserts-for-2",
         "weber-rust-resistant-outdoor-griddle-2",
@@ -8310,7 +8252,6 @@
         "skyflame-universal-stainless-steel-griddle-flat",
         "vevor-commercial-electric-griddle-2800w",
         "stanbroil-36-inch-flat-top",
-        "vevor-commercial-electric-griddle-22",
         "vevor-14-commercial-electric-griddle"
       ],
       "assignment_notes": null,
@@ -8454,9 +8395,7 @@
       "h2_structure": null,
       "products": [
         "royal-gourmet-pd4001-4-burner",
-        "royal-gourmet-pd4001-4-burner",
         "royal-gourmet-pd3001-3-burner",
-        "royal-gourmet-pd4001-4-burner",
         "skok-3-burner-outdoor-propane",
         "captiva-designs-propane-gas-griddle",
         "heavy-duty-600d-grill-cover-2"
@@ -8492,7 +8431,6 @@
       "products": [
         "hans-grill-pizza-stone-rectangular",
         "pizza-stone-baking-stone-solido",
-        "hans-grill-pizza-stone-rectangular",
         "5-pcs-round-pizza-stone",
         "old-stone-round-pizza-stone",
         "4-pcs-rectangle-pizza-stone",
@@ -8606,8 +8544,7 @@
         "big-horn-12-multi-fuel",
         "big-horn-gas-pizza-oven",
         "solo-stove-pi-prime-pizza",
-        "ooni-karu-2-pro-multi",
-        "ninja-artisan-electric-outdoor-pizza"
+        "ooni-karu-2-pro-multi"
       ],
       "assignment_notes": null,
       "status": "pending",
@@ -8713,7 +8650,6 @@
       "h2_structure": null,
       "products": [
         "solo-stove-bonfire-19-5",
-        "solo-stove-bonfire-19-5",
         "solo-stove-yukon-27-inch",
         "solo-stove-pi-prime-pizza",
         "solo-stove-ranger-2-0",
@@ -8754,7 +8690,6 @@
         "big-horn-gas-pizza-oven",
         "outdoor-pizza-oven-wood-fired-2",
         "leteuke-pizza-oven-table-grill",
-        "solo-stove-pi-prime-pizza",
         "mimiuo-gas-pizza-oven-outdoor"
       ],
       "assignment_notes": null,
@@ -8790,7 +8725,6 @@
         "ooni-karu-12-multi-fuel",
         "mellcom-20-outdoor-gas-pizza",
         "pizzello-16-outdoor-pizza-oven",
-        "big-horn-gas-pizza-oven",
         "solo-stove-pi-prime-pizza",
         "ooni-koda-2-propane-gas"
       ],
@@ -8876,7 +8810,9 @@
       "locked_url": null,
       "required_product_count": null,
       "ai_overview": null,
-      "ai_overview_risk": null
+      "ai_overview_risk": null,
+      "category_label": "Outdoor Cooking",
+      "staged": true
     },
     {
       "id": 241,
@@ -9085,7 +9021,6 @@
         "crafted-glazed-baking-pizza-stone",
         "weber-gourmet-bbq-system-pizza-stone",
         "weber-crafted-glazed-baking-stone-cordierite",
-        "crafted-glazed-baking-pizza-stone",
         "weber-stone-grill-accessory-black-heat",
         "onlyfire-stainless-steel-pizza-ring-kit",
         "hans-grill-pizza-stone-rectangular"
@@ -9234,7 +9169,6 @@
         "open-faced-grill-pizza-oven",
         "cuisinart-grill-top-pizza-oven",
         "heatguard-pro-geras-pizza-oven",
-        "stanbroil-wood-fired-pizza-oven-attachment",
         "ooni-koda-2-pro-gas",
         "old-potters-kiln-dried-pizza"
       ],
@@ -9272,8 +9206,7 @@
         "chef-iq-sense-smart-wireless",
         "thermomaven-professional-meat-thermometer-digital",
         "alpha-grillers-meat-thermometer-digital",
-        "temppro-tp19h-digital-meat-thermometer",
-        "thermomaven-professional-meat-thermometer-digital"
+        "temppro-tp19h-digital-meat-thermometer"
       ],
       "assignment_notes": null,
       "status": "pending",
@@ -9346,8 +9279,7 @@
         "lavatools-javelin-pro-classic-ultra",
         "instant-read-meat-thermometer-grillbliss",
         "alpha-grillers-meat-thermometer-digital",
-        "temppro-tp19h-digital-meat-thermometer",
-        "lavatools-javelin-pro-classic-ultra"
+        "temppro-tp19h-digital-meat-thermometer"
       ],
       "assignment_notes": null,
       "status": "pending",
@@ -9716,8 +9648,7 @@
         "lavatools-javelin-pro-classic-ultra",
         "taylor-waterproof-digital-instant-read-thermometer",
         "taylor-digital-instant-read-meat-thermometer",
-        "taylor-programmable-instant-read-wired-probe",
-        "taylor-waterproof-digital-instant-read-thermometer"
+        "taylor-programmable-instant-read-wired-probe"
       ],
       "assignment_notes": null,
       "status": "pending",
@@ -9864,8 +9795,7 @@
         "professional-digital-meat-thermometer-1",
         "thermomaven-wireless-bluetooth-smart-meat",
         "chef-iq-sense-smart-wireless",
-        "typhur-sync-gold-wireless-wifi",
-        "thermomaven-professional-meat-thermometer-digital"
+        "typhur-sync-gold-wireless-wifi"
       ],
       "assignment_notes": null,
       "status": "pending",
@@ -10011,7 +9941,6 @@
         "meater-pro-xl-wireless-smart-meat",
         "thermomaven-3000ft-smart-wireless-meat",
         "chef-iq-sense-smart-wireless-2",
-        "meater-plus-smart-bluetooth-wireless",
         "meater-pro-duo-wireless-smart-meat",
         "meater-se-100-wireless-smart-meat"
       ],
@@ -10123,8 +10052,7 @@
         "thermomaven-smart-bluetooth-wireless-meat",
         "alpha-grillers-meat-thermometer-digital",
         "temppro-tp19h-digital-meat-thermometer",
-        "thermomaven-professional-meat-thermometer-digital",
-        "lavatools-javelin-pro-classic-ultra"
+        "thermomaven-professional-meat-thermometer-digital"
       ],
       "assignment_notes": null,
       "status": "pending",
@@ -10527,9 +10455,7 @@
       "products": [
         "comnova-grill-cover-for-traeger",
         "sunpatio-outdoor-heavy-duty-waterproof",
-        "comnova-grill-cover-for-traeger",
         "traeger-grills-bac380-full-length",
-        "sunpatio-outdoor-heavy-duty-waterproof",
         "traeger-grills-bac503-full-length",
         "pellet-grill-cover-for-traeger"
       ],
@@ -10566,9 +10492,7 @@
         "upgraded-800d-heavy-duty-fabric",
         "icover-grill-cover-for-weber",
         "weber-premium-22-inch-charcoal-grill",
-        "suphomeware-22-inch-grill-cover",
-        "kingkong-7130-grill-cover-for",
-        "upgraded-800d-heavy-duty-fabric"
+        "suphomeware-22-inch-grill-cover"
       ],
       "assignment_notes": null,
       "status": "pending",
@@ -10678,7 +10602,6 @@
         "2-pcs-candle-lighter-electric",
         "bic-multi-purpose-lighters-long",
         "4-pack-candle-lighter-long",
-        "flame-bird-2-pack-electric",
         "click-n-flame-utility-lighter"
       ],
       "assignment_notes": null,
@@ -10712,7 +10635,6 @@
       "products": [
         "amazon-basics-4-piece-stainless",
         "cuisinart-3-piece-stainless-steel",
-        "amazon-basics-4-piece-stainless",
         "kaluns-grilling-accessories-dad-gifts",
         "alpha-grillers-grilling-accessories-bbq",
         "scrub-daddy-bbq-daddy-grill-brush-for",
