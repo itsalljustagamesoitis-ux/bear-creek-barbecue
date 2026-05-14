@@ -99,7 +99,7 @@ Stainless steel means no seasoning requirement and no rust anxiety through a rai
 
 [Check current price on Amazon.](product:17-inches-cooking-grates-for)
 
-### 70-01-911 Cooking Grates for Dynaglo DGH450CRP DGH450CRP-D DGF493BNP DGH474CRP DGH485CRP, Kenmore Backyard BY13-101-001-12
+### 70-01-911 Cooking Grates for Dynaglo DGH450CRP-D DGF493BNP DGH474CRP DGH485CRP, Kenmore Backyard BY13-101-001-12
 
 Dyna-Glo and Kenmore Backyard grills share a firebox architecture across several model generations, and the [70-01-911 Cooking Grates](product:70-01-911-cooking-grates) exist specifically to serve that overlap. The part number in the title is the signal that this is a precision-fit replacement rather than an approximate one , manufacturers use part number matching when dimensional tolerances are tight enough to matter.
 

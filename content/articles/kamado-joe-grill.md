@@ -103,9 +103,9 @@ For a buyer who wants a genuine kamado experience without paying Series II prici
 
 [Check current price on Amazon.](product:kamado-joe-classic-joe-i-premium-18)
 
-### Kamado Joe Joe Jr 13.5-inch Portable Ceramic Charcoal Grill
+### Kamado Joe Jr. 13.5-inch Portable Ceramic Charcoal Grill
 
-Most portable grills sacrifice cooking quality for convenience. The [Kamado Joe Joe Jr](product:kamado-joe-joe-jr-13-5-inch) doesn't make that trade , the ceramic construction is the same material science at a smaller scale, and the temperature control and heat retention that define kamado cooking are fully present at 13.5 inches.
+Most portable grills sacrifice cooking quality for convenience. The [Kamado Joe Jr.](product:kamado-joe-joe-jr-13-5-inch) doesn't make that trade , the ceramic construction is the same material science at a smaller scale, and the temperature control and heat retention that define kamado cooking are fully present at 13.5 inches.
 
 The use case is specific: tailgating, camping trips, small patios where an 18-inch grill is physically impractical, or a second grill for someone who already owns a larger kamado and wants portability without giving up what they've learned to cook on. It handles two chicken halves, a small rack of ribs, or steaks for two comfortably. A family of four will find it limiting.
 
@@ -160,7 +160,7 @@ Kamado Joe ceramic grills are durable, but ceramic has one specific vulnerabilit
 ### What is the difference between the Kamado Joe Classic Joe Series I and Series II?
 
 The Series II upgraded two things that matter: the hinge and the cooking system. The Series II hinge is counterweighted so the heavy ceramic lid settles rather than slams , that protects the ceramic and your fingers over thousands of cooks. The Series II also introduced the divide-and-conquer flexible cooking system, which allows two-tier cooking across separate temperature zones. The Series I lacks both features but uses the same ceramic construction and delivers the same core cooking experience.
-### Is the Kamado Joe Joe Jr big enough for a family of four?
+### Is the Kamado Joe Jr. big enough for a family of four?
 
 For a family of four, the Joe Jr's 13.5-inch surface is tight. You can manage it with careful positioning , two spatchcocked chicken halves or a rack of ribs cut in half , but you'll feel constrained regularly. The Joe Jr is most appropriate as a portable second grill, a grill for one or two people, or a solution for a small patio where an 18-inch grill won't physically fit. Families of four will find the Classic Joe's 18-inch surface far more practical for everyday cooking.
 ### What does the SloRoller insert in the Big Joe Series III actually do?
@@ -187,7 +187,7 @@ Most people find a usable level of control within three to five cooks, and genui
  },
  {
  "@type": "Question",
- "name": "Is the Kamado Joe Joe Jr big enough for a family of four?",
+ "name": "Is the Kamado Joe Jr. big enough for a family of four?",
  "acceptedAnswer": {
  "@type": "Answer",
  "text": "For a family of four, the Joe Jr's 13.5-inch surface is tight. You can manage it with careful positioning , two spatchcocked chicken halves or a rack of ribs cut in half , but you'll feel constrained regularly. The Joe Jr is most appropriate as a portable second grill, a grill for one or two people, or a solution for a small patio where an 18-inch grill won't physically fit. Families of four will find the Classic Joe's 18-inch surface far more practical for everyday cooking."

@@ -44,7 +44,7 @@ disclosure_required: true
 noindex: false
 ---
 
-Electric smokers have made low-and-slow cooking genuinely accessible, and the 30-inch vertical format sits at the practical center of that category. It's the size that fits a full packer brisket, handles four racks of ribs simultaneously, and doesn't demand a dedicated outbuilding to store. If you've been researching the [Masterbuilt 30 digital electric smoker](https://www.amazon.com/dp/B07CN38M23?tag=bearcreekbbq-20) or its closest alternatives, you're looking at a format that rewards patience more than skill.
+Electric smokers have made low-and-slow cooking genuinely accessible, and the 30-inch vertical format sits at the practical center of that category. It's the size that fits a full packer brisket, handles four racks of ribs simultaneously, and doesn't demand a dedicated outbuilding to store. If you've been researching the [Masterbuilt 30 digital electric smoker](product:masterbuilt-30-inch-digital-electric-2) or its closest alternatives, you're looking at a format that rewards patience more than skill.
 
 The real differences between units in this class come down to control precision, airflow management, and how well the manufacturer thought through the details you'll interact with every session. I've spent enough time with vertical electrics to know which compromises matter and which ones you'll stop noticing after the third cook.
 

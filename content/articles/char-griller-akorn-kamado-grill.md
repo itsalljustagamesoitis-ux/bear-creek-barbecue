@@ -93,9 +93,9 @@ The learning curve on temperature management is steeper here than on a full-size
 
 [Check current price on Amazon.](product:char-griller-akorn-jr-portable)
 
-### Kamado Joe Joe Jr 13.5-inch Portable Ceramic Charcoal Grill
+### Kamado Joe Jr. 13.5-inch Portable Ceramic Charcoal Grill
 
-The gap between the AKORN Jr. and the [Kamado Joe Joe Jr](product:kamado-joe-joe-jr-13-5-inch) is the ceramic-versus-steel argument in its most direct form. The Joe Jr. is heavier, more expensive, and more fragile in transit , but it holds temperature with a steadiness that's genuinely noticeable on longer cooks. If you're planning to smoke on this grill, not just sear, that heat retention pays dividends.
+The gap between the AKORN Jr. and the [Kamado Joe Jr.](product:kamado-joe-joe-jr-13-5-inch) is the ceramic-versus-steel argument in its most direct form. The Joe Jr. is heavier, more expensive, and more fragile in transit , but it holds temperature with a steadiness that's genuinely noticeable on longer cooks. If you're planning to smoke on this grill, not just sear, that heat retention pays dividends.
 
 Kamado Joe's accessory ecosystem also gives the Joe Jr. more long-term utility than its size suggests. The heat deflectors work properly with the ceramic shell's insulation in a way that makes indirect cooking more forgiving. For buyers who want a portable kamado that performs closer to a full-size unit than a compromise version, the Joe Jr. makes the case.
 
@@ -167,7 +167,7 @@ For low-and-slow smoking, the minion method , lighting a small portion of charco
 
 ## Frequently Asked Questions
 
-### Is the Char-Griller AKORN Jr. worth it over the Kamado Joe Joe Jr. for camping?
+### Is the Char-Griller AKORN Jr. worth it over the Kamado Joe Jr.. for camping?
 
 For camping specifically, the AKORN Jr. is the more practical choice for most buyers. The steel construction handles transport stress better than ceramic, and the locking lid is designed for exactly that use case. The Joe Jr. offers better temperature stability on longer cooks, but the risk of ceramic cracking in transit is real and the price difference is significant. If portability is the primary requirement, the AKORN Jr. is the more honest recommendation.
 ### Do I need the Smokin' Stone to smoke on the AKORN?
@@ -189,7 +189,7 @@ A kamado can reach temperatures above 600°F with both vents fully open, which i
  "mainEntity": [
  {
  "@type": "Question",
- "name": "Is the Char-Griller AKORN Jr. worth it over the Kamado Joe Joe Jr. for camping?",
+ "name": "Is the Char-Griller AKORN Jr. worth it over the Kamado Joe Jr.. for camping?",
  "acceptedAnswer": {
  "@type": "Answer",
  "text": "For camping specifically, the AKORN Jr. is the more practical choice for most buyers. The steel construction handles transport stress better than ceramic, and the locking lid is designed for exactly that use case. The Joe Jr. offers better temperature stability on longer cooks, but the risk of ceramic cracking in transit is real and the price difference is significant. If portability is the primary requirement, the AKORN Jr. is the more honest recommendation."

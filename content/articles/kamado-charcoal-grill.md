@@ -115,9 +115,9 @@ The honest limitation is that insulated steel, even excellent insulated steel, i
 
 [Check current price on Amazon.](product:weber-summit-kamado-e6-charcoal-grill)
 
-### Kamado Joe Joe Jr 13.5-inch Portable Ceramic Charcoal Grill
+### Kamado Joe Jr. 13.5-inch Portable Ceramic Charcoal Grill
 
-The [Kamado Joe Joe Jr](product:kamado-joe-joe-jr-13-5-inch) is the right answer to a specific question: can I get genuine kamado performance in a package I can take somewhere? The answer is yes, with a clear-eyed understanding of what "somewhere" means and what "13.5 inches" means in practice.
+The [Kamado Joe Jr.](product:kamado-joe-joe-jr-13-5-inch) is the right answer to a specific question: can I get genuine kamado performance in a package I can take somewhere? The answer is yes, with a clear-eyed understanding of what "somewhere" means and what "13.5 inches" means in practice.
 
 The ceramic construction is the same quality as the full-size Kamado Joe models , this isn't a compromised version of the format. Heat retention and temperature stability behave exactly as they do on a larger ceramic kamado. The included heat deflectors mean you can run it as a smoker, not just a grill. For two people on a camping trip or a tailgate, it does real work.
 
@@ -175,9 +175,9 @@ The Series II adds the kontrol board top vent, which is a machined component tha
 ### Is the Weber Summit Kamado E6 a true kamado or just a kettle with a dome lid?
 
 It's a genuine kamado in function , the dual-walled insulated steel construction achieves real heat retention and the top-and-bottom vent system controls temperature the same way a ceramic kamado does. It differs from ceramic in thermal mass: steel heats up faster but doesn't store heat with quite the same density. The 24-inch cooking area and Weber's one-touch cleaning system are legitimate advantages over most ceramic alternatives in the same tier.
-### Can the Kamado Joe Joe Jr or the Char-Griller AKORN Jr. handle real low-and-slow smoking, or are they only for grilling?
+### Can the Kamado Joe Jr. or the Char-Griller AKORN Jr. handle real low-and-slow smoking, or are they only for grilling?
 
-Both can smoke, but with different results. The [Kamado Joe Joe Jr](product:kamado-joe-joe-jr-13-5-inch) includes heat deflectors specifically for indirect cooking, and its ceramic construction holds smoking temperatures steadily once dialed in. The [Char-Griller AKORN Jr.](product:char-griller-akorn-jr-portable) can smoke but requires more active temperature management due to its steel construction. Neither is practical for large cuts , the cooking surface limits what fits.
+Both can smoke, but with different results. The [Kamado Joe Jr.](product:kamado-joe-joe-jr-13-5-inch) includes heat deflectors specifically for indirect cooking, and its ceramic construction holds smoking temperatures steadily once dialed in. The [Char-Griller AKORN Jr.](product:char-griller-akorn-jr-portable) can smoke but requires more active temperature management due to its steel construction. Neither is practical for large cuts , the cooking surface limits what fits.
 ### How long does it take to learn temperature control on a kamado grill?
 
 Most users get comfortable within three to five cooks. The adjustment for experienced kettle grill users is learning how slowly a kamado responds to vent changes , the thermal mass means adjustments take longer to register than on a thin-walled grill. The common beginner mistake is chasing temperature by opening the vents too aggressively, which overshoots the target. Starting with the bottom vent mostly closed and making small, patient adjustments is the approach that shortens the learning curve fastest.
@@ -207,10 +207,10 @@ Yes, with a caveat. The 18-inch kamado footprint with cart is roughly the same a
  },
  {
  "@type": "Question",
- "name": "Can the Kamado Joe Joe Jr or the Char-Griller AKORN Jr. handle real low-and-slow smoking, or are they only for grilling?",
+ "name": "Can the Kamado Joe Jr. or the Char-Griller AKORN Jr. handle real low-and-slow smoking, or are they only for grilling?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Both can smoke, but with different results. The Kamado Joe Joe Jr includes heat deflectors specifically for indirect cooking, and its ceramic construction holds smoking temperatures steadily once dialed in. The Char-Griller AKORN Jr. can smoke but requires more active temperature management due to its steel construction. Neither is practical for large cuts , the cooking surface limits what fits."
+ "text": "Both can smoke, but with different results. The Kamado Joe Jr. includes heat deflectors specifically for indirect cooking, and its ceramic construction holds smoking temperatures steadily once dialed in. The Char-Griller AKORN Jr. can smoke but requires more active temperature management due to its steel construction. Neither is practical for large cuts , the cooking surface limits what fits."
  }
  },
  {

@@ -51,7 +51,7 @@ disclosure_required: true
 noindex: false
 ---
 
-Portable griddles have made flat-top cooking genuinely accessible away from home, and Blackstone built most of that category from scratch. If you've landed here researching a [blackstone grill portable](https://www.amazon.com/s?k=blackstone+portable+grill), you already know what a flat-top can do , the question is which size and configuration fits your situation. I've spent more time than I should admit reading spec sheets and comparing fold mechanisms, and what follows is the honest version of those findings.
+Portable griddles have made flat-top cooking genuinely accessible away from home, and Blackstone built most of that category from scratch. If you've landed here researching a portable Blackstone griddle, you already know what a flat-top can do , the question is which size and configuration fits your situation. I've spent more time than I should admit reading spec sheets and comparing fold mechanisms, and what follows is the honest version of those findings.
 
 Not every Blackstone portable is the right fit for every buyer. The 17-inch and 22-inch tabletop models look similar on a product page but cook very differently in practice. Fold-and-go designs solve a different problem than a straight tabletop. [Portable Grills](/portable-grills/) as a category rewards matching the product to the use case , and that's exactly what this guide is built to help you do.
 

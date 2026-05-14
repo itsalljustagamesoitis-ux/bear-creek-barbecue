@@ -115,9 +115,9 @@ The tradeoffs are real. The Big Joe is heavy, takes longer to come to temperatur
 
 [Check current price on Amazon.](product:kamado-joe-big-joe-series-i-24)
 
-### Kamado Joe Joe Jr 13.5-inch Portable Ceramic Charcoal Grill
+### Kamado Joe Jr. 13.5-inch Portable Ceramic Charcoal Grill
 
-Not every kamado cook happens in the backyard. The [Kamado Joe Joe Jr](product:kamado-joe-joe-jr-13-5-inch) is built for situations where the classic setup doesn't apply , tailgates, camping sites, beach cookouts, a small apartment patio where a full-size kamado would block the door.
+Not every kamado cook happens in the backyard. The [Kamado Joe Jr.](product:kamado-joe-joe-jr-13-5-inch) is built for situations where the classic setup doesn't apply , tailgates, camping sites, beach cookouts, a small apartment patio where a full-size kamado would block the door.
 
 At 13.5 inches, you're working with a cooking surface that's honestly limited for a household's primary grill. A spatchcocked chicken fits. A rack of ribs does not. The Joe Jr earns its place as a second grill for a household that already owns a full-size kamado, or as the only option for a buyer whose cooking situations are genuinely mobile.
 
@@ -182,7 +182,7 @@ Buying the Joe Jr as your only grill because the Classic Joe feels like too much
 ### What is the difference between the Classic Joe and the Big Joe?
 
 The Classic Joe uses an 18-inch ceramic body with 250 square inches of primary cooking surface. The Big Joe uses a 24-inch body with 450 square inches. Beyond size, the Big Joe is the only model compatible with accessories like the JoeTisserie rotisserie. For most households cooking for four to six people, the Classic Joe is sufficient , the Big Joe is the right call for regular large-group cooking or buyers who want the full accessory ecosystem.
-### Is the Kamado Joe Joe Jr worth buying as a primary grill?
+### Is the Kamado Joe Jr. worth buying as a primary grill?
 For most households, no. The 13.5-inch cooking surface is genuinely limited for everyday family cooking , a full rack of ribs won't fit uncut, and capacity constraints become real quickly. The Joe Jr earns its place as a second grill for households that already own a full-size kamado, or as the option for buyers whose cooking situations are consistently mobile. If portability is your primary requirement, it's excellent.
 ### Do I need the grill cover if my kamado is stored outdoors?
 
@@ -208,7 +208,7 @@ No. The [Kamado Joe JoeTisserie](product:kamado-joe-joetisserie-rotisserie-acces
  },
  {
  "@type": "Question",
- "name": "Is the Kamado Joe Joe Jr worth buying as a primary grill?",
+ "name": "Is the Kamado Joe Jr. worth buying as a primary grill?",
  "acceptedAnswer": {
  "@type": "Answer",
  "text": "For most households, no. The 13.5-inch cooking surface is genuinely limited for everyday family cooking , a full rack of ribs won't fit uncut, and capacity constraints become real quickly. The Joe Jr earns its place as a second grill for households that already own a full-size kamado, or as the option for buyers whose cooking situations are consistently mobile. If portability is your primary requirement, it's excellent. If it's not, buy the Classic Joe instead."

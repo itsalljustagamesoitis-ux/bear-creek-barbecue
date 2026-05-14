@@ -121,11 +121,11 @@ This is a solid choice for a cook who wants a reliable, no-complication backup t
 
 ### Escali AH1 Stainless Steel Oven Safe Meat Thermometer
 
-The [Escali AH1](product:escali-ah1-stainless-steel) is an analog dial thermometer, and that distinction matters. No batteries, no app, no pairing , you insert it into the center of the raw meatloaf before it goes in the oven, and the dial reads temperature continuously for the entire cook. NSF certified, stainless steel construction, and a 2.5-inch dial face that's large enough to read through an oven window without opening the door.
+The [Escali AH1](product:escali-ah1-stainless-steel-oven) is an analog dial thermometer, and that distinction matters. No batteries, no app, no pairing , you insert it into the center of the raw meatloaf before it goes in the oven, and the dial reads temperature continuously for the entire cook. NSF certified, stainless steel construction, and a 2.5-inch dial face that's large enough to read through an oven window without opening the door.
 
 For meatloaf specifically, this is a genuinely practical tool. The dish is in the oven long enough that a continuous-read instrument makes more sense than an instant-read, and the Escali's oven-safe design is purpose-built for exactly this use case. The trade-off versus digital precision is real , dial thermometers typically resolve to five-degree increments rather than single degrees. At the 160°F target for ground beef, that's accurate enough to cook safely, but it's not the instrument for obsessive precision.
 
-[Check current price on Amazon.](product:escali-ah1-stainless-steel)
+[Check current price on Amazon.](product:escali-ah1-stainless-steel-oven)
 
 ## Buying Guide
 
@@ -170,7 +170,7 @@ Both work, and the choice depends on how you prefer to cook. An instant-read lik
 Insert the probe horizontally through the short end of the loaf, pushing it toward the geometric center. Avoid going in from the top, which risks hitting the bottom of the pan before reaching the center. The goal is to measure the temperature at the point farthest from any exterior surface , that's the last part of the loaf to reach safe temperature. For a standard two-pound loaf, the probe tip should land approximately in the center of the mass.
 ### Is the Escali analog dial thermometer accurate enough for meatloaf compared to digital models?
 
-For the purpose of hitting the 160°F food safety target, yes. The [Escali AH1](product:escali-ah1-stainless-steel) reads to the nearest five degrees, which is adequate precision for meatloaf. You are determining safety, not chasing a steak temperature within one or two degrees. The practical advantage of the Escali is that it reads continuously without batteries or setup , you insert it before the loaf goes in the oven and monitor through the door.
+For the purpose of hitting the 160°F food safety target, yes. The [Escali AH1](product:escali-ah1-stainless-steel-oven) reads to the nearest five degrees, which is adequate precision for meatloaf. You are determining safety, not chasing a steak temperature within one or two degrees. The practical advantage of the Escali is that it reads continuously without batteries or setup , you insert it before the loaf goes in the oven and monitor through the door.
 ### Do I need WiFi connectivity in a meat thermometer, or is Bluetooth sufficient for oven monitoring?
 
 For most homes, Bluetooth range covers the distance between the kitchen and common living areas with no problem. WiFi connectivity becomes useful if you want to monitor the cook from outside the house, in a detached garage, or in a larger property where Bluetooth signal degrades. The [CHEF iQ Sense](product:chef-iq-sense-smart-wireless-2) and ThermoMaven both offer WiFi for unlimited range. If you never step more than 50 feet from your kitchen while cooking, Bluetooth is sufficient and involves less setup.

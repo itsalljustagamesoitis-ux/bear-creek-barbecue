@@ -18,6 +18,13 @@ visual:
   font_headings: Fraunces
   font_body: Inter
   slots: 5
+  logo_paths:
+    favicon: "/images/brand/favicon.ico"
+    header_svg: "/images/brand/logo-header.svg"
+    header_png: "/images/brand/logo-header.png"
+    footer_svg: "/images/brand/logo-footer.svg"
+    social_square: "/images/brand/social-square.png"
+    open_graph_default: "/images/brand/og-default.jpg"
 images:
   base_url: /images
 style_policy:

@@ -115,13 +115,13 @@ The "burners sold separately" note in the title is worth taking seriously. If yo
 
 ### Green Mountain Grills Wood-Fired Steel Pizza Oven Attachment
 
-If you're running a Daniel Boone or Jim Bowie, the [Green Mountain Grills Wood-Fired Steel Pizza Oven Attachment](product:green-mountain-grills-wood-fired-pizza-oven) is the purpose-built answer. There's a real advantage to buying the attachment designed by the grill manufacturer: the fit is precise, the airflow geometry is accounted for, and the included square pizza stone is matched to the chamber dimensions.
+If you're running a Daniel Boone or Jim Bowie, the [Green Mountain Grills Wood-Fired Steel Pizza Oven Attachment](product:green-mountain-grills-wood-fired-steel-pizza-oven) is the purpose-built answer. There's a real advantage to buying the attachment designed by the grill manufacturer: the fit is precise, the airflow geometry is accounted for, and the included square pizza stone is matched to the chamber dimensions.
 
 Generic attachments make compatibility promises across brands; this one makes one promise to one family of grills and keeps it. The steel construction is durable, and the wood-fired capability through your GMG's pellet system gives you that smoke flavor layered into the pizza cook that pure propane units don't deliver the same way.
 
 The obvious constraint is the narrow compatibility window. Daniel Boone and Jim Bowie owners have a clear recommendation here. Everyone else is looking at different options regardless of how good this one is.
 
-[Check current price on Amazon.](product:green-mountain-grills-wood-fired-pizza-oven)
+[Check current price on Amazon.](product:green-mountain-grills-wood-fired-steel-pizza-oven)
 
 ### Ooni Karu 12 Multi-Fuel Outdoor Portable Pizza Oven
 
@@ -174,7 +174,7 @@ Most attachments on this list are rated between 800°F and 1,000°F under optima
 Most attachments and small portable ovens in this category accommodate 12-inch pizzas. That's a reasonable single-pie size for two to three people. If you're regularly feeding a family of four or hosting groups, expect to cook multiple pies sequentially , there's no single-chamber option here that handles a 16-inch pie. The [BIG HORN 12" Multi-Fuel Outdoor Pizza Oven](product:big-horn-12-multi-fuel) names the 12-inch limit directly in the product title, which is honest sizing disclosure that not all options provide.
 ### Should I buy the Green Mountain Grills attachment if I own a different pellet grill brand?
 
-No. The [Green Mountain Grills Wood-Fired Steel Pizza Oven Attachment](product:green-mountain-grills-wood-fired-pizza-oven) is designed specifically for the Daniel Boone and Jim Bowie models. If you don't own one of those two grills, the GMG attachment isn't compatible regardless of how closely your grill resembles them in size.
+No. The [Green Mountain Grills Wood-Fired Steel Pizza Oven Attachment](product:green-mountain-grills-wood-fired-steel-pizza-oven) is designed specifically for the Daniel Boone and Jim Bowie models. If you don't own one of those two grills, the GMG attachment isn't compatible regardless of how closely your grill resembles them in size.
 ### Is a standalone pizza oven better than a pellet grill attachment?
 For pure pizza performance, yes , a purpose-built oven outperforms an adapted grill. Standalone units reach higher temperatures more consistently and recover faster between pies. The trade-off is cost, equipment footprint, and the loss of that wood-smoke flavor layered in through pellet combustion. If you own a compatible pellet grill and cook pizza occasionally, an attachment delivers a meaningful upgrade at a reasonable cost.
 <script type="application/ld+json">

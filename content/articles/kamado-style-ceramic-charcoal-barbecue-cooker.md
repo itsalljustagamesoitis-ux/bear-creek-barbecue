@@ -119,9 +119,9 @@ The honest caveat here is brand support. Kamado Joe has a documented warranty pr
 
 [Check current price on Amazon.](product:london-sunshine-ceramic-kamado-charcoal)
 
-### Kamado Joe Joe Jr 13.5-Inch Portable Ceramic Charcoal Grill
+### Kamado Joe Jr. 13.5-Inch Portable Ceramic Charcoal Grill
 
-The [Kamado Joe Joe Jr 13.5-inch Portable Ceramic Charcoal Grill](product:kamado-joe-joe-jr-13-5-inch) is the right answer for a specific buyer: someone who wants Kamado Joe ceramic quality in a unit that can go to a tailgate, a campsite, or a small apartment patio. The 13.5-inch cooking surface is limiting for a primary grill , two steaks and a few vegetables is about capacity , but for the buyer who already has a larger grill at home and wants a portable ceramic option, it fills that role cleanly.
+The [Kamado Joe Jr. 13.5-inch Portable Ceramic Charcoal Grill](product:kamado-joe-joe-jr-13-5-inch) is the right answer for a specific buyer: someone who wants Kamado Joe ceramic quality in a unit that can go to a tailgate, a campsite, or a small apartment patio. The 13.5-inch cooking surface is limiting for a primary grill , two steaks and a few vegetables is about capacity , but for the buyer who already has a larger grill at home and wants a portable ceramic option, it fills that role cleanly.
 
 The build quality is consistent with the rest of the Kamado Joe line. The ceramic is the same density, the vents work the same way, and the heat deflectors are included. You're not buying a lesser product , you're buying a smaller one, with the same learning curve and the same rewards once you've dialed it in.
 
@@ -182,7 +182,7 @@ Temperature on a kamado is controlled entirely through the bottom draft vent and
 
 For most households cooking for four to six people, yes. The [Kamado Joe Classic Joe™ I Premium 18-inch Ceramic Charcoal Grill and Smoker](product:kamado-joe-classic-joe-i-premium-18) reaches temperature faster, uses less charcoal per cook, and is significantly easier to move than the Big Joe. The Big Joe's 24-inch surface and 450 square inches of capacity become relevant only when you're regularly cooking for eight or more people or want to run multiple large cuts simultaneously.
 ### Can I use a portable kamado like the Joe Jr. as my primary grill?
-You can, with caveats. The [Kamado Joe Joe Jr 13.5-inch Portable Ceramic Charcoal Grill](product:kamado-joe-joe-jr-13-5-inch) performs with full Kamado Joe quality, but the 13.5-inch cooking surface limits you to roughly two steaks or one small chicken at a time. For a household of one or two people who cook simple meals, it's adequate as a primary grill. For a family or anyone who entertains, it will be a constant constraint.
+You can, with caveats. The [Kamado Joe Jr. 13.5-inch Portable Ceramic Charcoal Grill](product:kamado-joe-joe-jr-13-5-inch) performs with full Kamado Joe quality, but the 13.5-inch cooking surface limits you to roughly two steaks or one small chicken at a time. For a household of one or two people who cook simple meals, it's adequate as a primary grill. For a family or anyone who entertains, it will be a constant constraint.
 ### What maintenance does a ceramic kamado grill require?
 The primary maintenance tasks are gasket inspection, ash removal, and occasional grate cleaning. Gaskets , the felt or fiberglass seals between the dome and base , compress over time and eventually need replacement. On Kamado Joe units, replacement gaskets are readily available. Ash should be removed after every few cooks to maintain airflow through the bottom vent.
 <script type="application/ld+json">
@@ -219,7 +219,7 @@ The primary maintenance tasks are gasket inspection, ash removal, and occasional
  "name": "Can I use a portable kamado like the Joe Jr. as my primary grill?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "You can, with caveats. The Kamado Joe Joe Jr 13.5-inch Portable Ceramic Charcoal Grill performs with full Kamado Joe quality, but the 13.5-inch cooking surface limits you to roughly two steaks or one small chicken at a time. For a household of one or two people who cook simple meals, it's adequate as a primary grill. For a family or anyone who entertains, it will be a constant constraint. Most buyers use it as a secondary or travel grill alongside a larger unit."
+ "text": "You can, with caveats. The Kamado Joe Jr. 13.5-inch Portable Ceramic Charcoal Grill performs with full Kamado Joe quality, but the 13.5-inch cooking surface limits you to roughly two steaks or one small chicken at a time. For a household of one or two people who cook simple meals, it's adequate as a primary grill. For a family or anyone who entertains, it will be a constant constraint. Most buyers use it as a secondary or travel grill alongside a larger unit."
  }
  },
  {

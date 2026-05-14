@@ -115,9 +115,9 @@ The included cart and side shelves are the same configuration as other full-size
 
 [Check current price on Amazon.](product:kamado-joe-classic-joe-i-premium-18)
 
-### Kamado Joe Joe Jr 13.5-inch Portable Ceramic Charcoal Grill
+### Kamado Joe Jr. 13.5-inch Portable Ceramic Charcoal Grill
 
-Portability reframes everything about the Joe Jr. The [Kamado Joe Joe Jr.](product:kamado-joe-joe-jr-13-5-inch) is not a scaled-down version of the Classic for buyers who want to spend less , it's a genuinely different tool built for a different use case. At 68 pounds with a grill stand rather than a wheeled cart, this is the only Kamado Joe ceramic grill you can realistically load into a truck bed or take to a tailgate.
+Portability reframes everything about the Joe Jr. The [Kamado Joe Jr..](product:kamado-joe-joe-jr-13-5-inch) is not a scaled-down version of the Classic for buyers who want to spend less , it's a genuinely different tool built for a different use case. At 68 pounds with a grill stand rather than a wheeled cart, this is the only Kamado Joe ceramic grill you can realistically load into a truck bed or take to a tailgate.
 
 The 13.5-inch ceramic cooking surface holds heat as efficiently as any kamado , the physics of ceramic construction don't change at smaller scale. Temperature management works the same way, the airflow controls are proportionally similar, and you can still run a full smoke at low and slow temperatures or push the dome toward searing heat for steaks and chops. The constraint is cooking capacity, not cooking capability.
 
@@ -162,7 +162,7 @@ Ceramic grills reward careful handling and penalize careless one. The ceramic do
 ### What is the difference between the Kamado Joe Classic Series I and Series II?
 
 The Series II added two meaningful functional upgrades over the original Series I: the Kontrol Tower top vent and the Air-Lift hinge. The Kontrol Tower provides finer airflow adjustment and stays open without flooding in rain. The Air-Lift hinge counterbalances the heavy ceramic lid, making it easier to open with one hand during a long cook. The underlying ceramic construction, cooking diameter, and core performance are identical across both generations.
-### Is the Kamado Joe Joe Jr. worth buying as a primary grill?
+### Is the Kamado Joe Jr.. worth buying as a primary grill?
 
 The Joe Jr. is worth buying as a primary grill only if your cooking situation genuinely requires portability or if your outdoor space can't accommodate a full-size unit. Its 13.5-inch cooking surface limits capacity in ways that become frustrating quickly for anyone cooking for more than two or three people regularly. As a secondary grill, a camping option, or a first kamado for a small household, it's a strong product. As a replacement for the Classic in a standard backyard setup, it's undersized for most needs.
 ### How does the Kamado Joe Big Joe compare to the Classic for everyday cooking?
@@ -189,7 +189,7 @@ Yes , and this dual capability is the core reason ceramic kamados command a prem
  },
  {
  "@type": "Question",
- "name": "Is the Kamado Joe Joe Jr. worth buying as a primary grill?",
+ "name": "Is the Kamado Joe Jr.. worth buying as a primary grill?",
  "acceptedAnswer": {
  "@type": "Answer",
  "text": "The Joe Jr. is worth buying as a primary grill only if your cooking situation genuinely requires portability or if your outdoor space can't accommodate a full-size unit. Its 13.5-inch cooking surface limits capacity in ways that become frustrating quickly for anyone cooking for more than two or three people regularly. As a secondary grill, a camping option, or a first kamado for a small household, it's a strong product. As a replacement for the Classic in a standard backyard setup, it's undersized for most needs."

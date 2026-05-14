@@ -103,9 +103,9 @@ If you buy used or find the Classic Joe I at a meaningful discount, it's a stron
 
 [Check current price on Amazon.](product:kamado-joe-classic-joe-i-premium-18)
 
-### Kamado Joe Joe Jr 13.5-inch Portable Ceramic Charcoal Grill
+### Kamado Joe Jr. 13.5-inch Portable Ceramic Charcoal Grill
 
-Portability changes the calculus entirely. The [Kamado Joe Joe Jr](product:kamado-joe-joe-jr-13-5-inch) is what you bring to a tailgate, a camping site, or a beach where a full-size kamado would be absurd. The 13.5-inch ceramic shell gives it the same heat-retention physics as the Classic Joe line , it's not a watered-down product, just a smaller one.
+Portability changes the calculus entirely. The [Kamado Joe Jr.](product:kamado-joe-joe-jr-13-5-inch) is what you bring to a tailgate, a camping site, or a beach where a full-size kamado would be absurd. The 13.5-inch ceramic shell gives it the same heat-retention physics as the Classic Joe line , it's not a watered-down product, just a smaller one.
 
 The honest limitation is cooking surface. A 13.5-inch grate fits a spatchcocked chicken, a rack of ribs folded on itself, or a generous number of burgers , but not all at once, and not a full brisket under any configuration. Accept that constraint going in and the Joe Jr delivers. Refuse to accept it and you'll resent the cooker for your own miscalculation.
 
@@ -172,7 +172,7 @@ Vent management on a kamado is a skill that builds over three to five cooks. The
 The Series II adds an air-lift hinge that makes the heavy ceramic dome significantly easier to open at high temperatures, along with an improved gasket system for tighter heat retention. The Classic Joe I offers the same 18-inch ceramic shell and cooking capacity without those refinements. For most buyers, the Series II improvements justify the price difference , the hinge quality alone changes the daily experience of using the cooker.
 ### Is a 13 or 15-inch kamado large enough for regular family cooking?
 
-For two people, yes , a 13 or 15-inch cooking surface handles most weeknight and weekend meals comfortably. For four or more people, a junior-size kamado becomes limiting quickly, particularly for larger cuts like ribs or a whole chicken alongside sides. The [Kamado Joe Joe Jr](product:kamado-joe-joe-jr-13-5-inch) is best positioned as a travel cooker or a second cooker rather than a primary family grill.
+For two people, yes , a 13 or 15-inch cooking surface handles most weeknight and weekend meals comfortably. For four or more people, a junior-size kamado becomes limiting quickly, particularly for larger cuts like ribs or a whole chicken alongside sides. The [Kamado Joe Jr.](product:kamado-joe-joe-jr-13-5-inch) is best positioned as a travel cooker or a second cooker rather than a primary family grill.
 ### How does a steel-shell kamado like the AKORN Jr. compare to ceramic models for smoking?
 
 Steel-shell designs like the [Char-Griller AKORN Jr.](product:char-griller-akorn-jr-portable) are lighter and more affordable but have less thermal mass than ceramic. That means more active vent management during long cooks and faster heat loss when ambient temperatures drop or the lid opens. For shorter cooks and grilling sessions, the practical difference is modest. For extended low-and-slow smoking, ceramic construction provides a more forgiving experience.
@@ -200,7 +200,7 @@ The main tasks are ash removal after each cook, gasket inspection every season, 
  "name": "Is a 13 or 15-inch kamado large enough for regular family cooking?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "For two people, yes , a 13 or 15-inch cooking surface handles most weeknight and weekend meals comfortably. For four or more people, a junior-size kamado becomes limiting quickly, particularly for larger cuts like ribs or a whole chicken alongside sides. The Kamado Joe Joe Jr is best positioned as a travel cooker or a second cooker rather than a primary family grill."
+ "text": "For two people, yes , a 13 or 15-inch cooking surface handles most weeknight and weekend meals comfortably. For four or more people, a junior-size kamado becomes limiting quickly, particularly for larger cuts like ribs or a whole chicken alongside sides. The Kamado Joe Jr. is best positioned as a travel cooker or a second cooker rather than a primary family grill."
  }
  },
  {

@@ -51,7 +51,7 @@ disclosure_required: true
 noindex: false
 ---
 
-Natural gas grills solve a specific problem: you want to cook outside regularly, and you're tired of running out of propane at the worst possible moment. If you have a gas line at your house , or you're planning to add one , a [natural gas grill](https://www.amazon.com/s?k=natural+gas+grill) converts that supply into reliable, on-demand heat with no tank-swapping required. The tradeoff is permanence. These grills stay put, which means choosing carefully matters more than it does with a portable setup. The [Gas Grills](/gas-grills/) hub has broader context on fuel types if you're still deciding.
+Natural gas grills solve a specific problem: you want to cook outside regularly, and you're tired of running out of propane at the worst possible moment. If you have a gas line at your house , or you're planning to add one , a natural gas grill converts that supply into reliable, on-demand heat with no tank-swapping required. The tradeoff is permanence. These grills stay put, which means choosing carefully matters more than it does with a portable setup. The [Gas Grills](/gas-grills/) hub has broader context on fuel types if you're still deciding.
 
 What separates a good natural gas grill from a frustrating one usually comes down to burner quality, grate material, and how well the grill manages heat across zones. Raw BTU numbers are less useful than they used to be , the question is whether the heat lands where you need it, holds steady, and recovers quickly after you open the lid.
 

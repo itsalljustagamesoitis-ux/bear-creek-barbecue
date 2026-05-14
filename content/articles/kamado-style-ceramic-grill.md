@@ -129,9 +129,9 @@ The learning curve on temperature management is real, and it doesn't disappear j
 
 [Check current price on Amazon.](product:kamado-joe-classic-joe-i-premium-18)
 
-### Kamado Joe Joe Jr. 13.5-inch Portable Ceramic Charcoal Grill
+### Kamado Joe Jr.. 13.5-inch Portable Ceramic Charcoal Grill
 
-The [Kamado Joe Joe Jr.](product:kamado-joe-joe-jr-13-5-inch) makes the case for why brand matters even at the smaller end of the size spectrum. At 13.5 inches, the cooking surface is comparable to the other compact units in this group. What's different is the engineering behind it and the support structure around it , Kamado Joe's heat deflectors, stainless steel grate, and ash tool are included, and replacement parts are available if something needs replacing three years from now.
+The [Kamado Joe Jr..](product:kamado-joe-joe-jr-13-5-inch) makes the case for why brand matters even at the smaller end of the size spectrum. At 13.5 inches, the cooking surface is comparable to the other compact units in this group. What's different is the engineering behind it and the support structure around it , Kamado Joe's heat deflectors, stainless steel grate, and ash tool are included, and replacement parts are available if something needs replacing three years from now.
 
 This is the portable kamado for buyers who want Kamado Joe quality and don't want to commit to hauling an 18-inch setup to a tailgate or a campsite. The Joe Jr. fits in a truck bed, handles well on a folding table, and performs like a proper kamado rather than a toy version of one.
 
@@ -178,7 +178,7 @@ Kamado Joe is the clearest example of a brand with robust long-term support in t
 An 18-inch model like the Kamado Joe Classic Joe I is the right size for regular family cooking. It provides enough surface area to run indirect and direct heat zones simultaneously, which matters for meals with different components finishing at different times. Compact 13-to-15-inch models work for one or two people but will feel constrained at family-sized portions. If you're ever cooking for more than four people, the larger size pays off quickly.
 ### Is the Char-Griller AKORN Jr. really a kamado-style grill if it's not ceramic?
 
-It functions on the same principles , top and bottom vents control airflow and temperature, the insulated construction retains heat , but the material is triple-wall insulated steel rather than ceramic. That makes it more durable against cracking and lighter to transport, but it provides less thermal mass than ceramic. For buyers committed to ceramic construction specifically, the [Kamado Joe Joe Jr.](product:kamado-joe-joe-jr-13-5-inch) is the better portable option. For buyers who prioritize durability and lighter weight, the AKORN Jr. is a strong alternative.
+It functions on the same principles , top and bottom vents control airflow and temperature, the insulated construction retains heat , but the material is triple-wall insulated steel rather than ceramic. That makes it more durable against cracking and lighter to transport, but it provides less thermal mass than ceramic. For buyers committed to ceramic construction specifically, the [Kamado Joe Jr..](product:kamado-joe-joe-jr-13-5-inch) is the better portable option. For buyers who prioritize durability and lighter weight, the AKORN Jr. is a strong alternative.
 ### How long does it take to learn temperature management on a kamado grill?
 Most people get comfortable within three to five cooks. The learning curve is real , ceramic kamados respond slowly to vent adjustments, which surprises new owners used to gas grills. The key is making small adjustments and waiting. Opening or closing a vent a quarter-inch, then waiting five minutes to see the result, teaches you the rhythm faster than large corrections.
 ### Can I use a tabletop kamado like the Upgraded 13-inch model for camping?
@@ -203,7 +203,7 @@ Ceramic quality can be comparable at initial use , the material physics don't ch
  "name": "Is the Char-Griller AKORN Jr. really a kamado-style grill if it's not ceramic?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "It functions on the same principles , top and bottom vents control airflow and temperature, the insulated construction retains heat , but the material is triple-wall insulated steel rather than ceramic. That makes it more durable against cracking and lighter to transport, but it provides less thermal mass than ceramic. For buyers committed to ceramic construction specifically, the Kamado Joe Joe Jr. is the better portable option. For buyers who prioritize durability and lighter weight, the AKORN Jr. is a strong alternative."
+ "text": "It functions on the same principles , top and bottom vents control airflow and temperature, the insulated construction retains heat , but the material is triple-wall insulated steel rather than ceramic. That makes it more durable against cracking and lighter to transport, but it provides less thermal mass than ceramic. For buyers committed to ceramic construction specifically, the Kamado Joe Jr.. is the better portable option. For buyers who prioritize durability and lighter weight, the AKORN Jr. is a strong alternative."
  }
  },
  {
