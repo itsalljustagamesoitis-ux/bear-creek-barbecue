@@ -27,6 +27,10 @@ visual:
     open_graph_default: "/images/brand/og-default.jpg"
 images:
   base_url: /images
+
+deployment:
+  cloudflare_pages_project: "bear-creek-barbecue"
+
 style_policy:
   word_count:
     min: 2000
