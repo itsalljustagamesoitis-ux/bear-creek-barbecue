@@ -56,5 +56,5 @@ photos:
 
 # --- Public-facing fields (the ONLY persona fields rendered in author boxes, home and reviews pages) ---
 role_public: Writer, Bear Creek Barbecue
-bio_public: Brian Miller writes the guides at Bear Creek Barbecue, covering outdoor cooking & barbecue equipment. Recommendations are researched from manufacturer specifications, retailer listings and owner reviews.
+bio_public: Brian Miller writes the guides at Bear Creek Barbecue, covering outdoor cooking & barbecue equipment. Recommendations are compiled from manufacturer specifications and current product listings, and this site does not test products.
 testing_claims: false
