@@ -2,6 +2,9 @@ site:
   slug: bear-creek-barbecue
   domain: bearcreekbarbecue.com
   brand_name: Bear Creek Barbecue
+  not_found_emoji: '🔥'
+  not_found_browse_href: '/offset-smokers/'
+  not_found_browse_label: 'Browse BBQ guides'
   tagline: The equipment guide for everyone who isn't a pitmaster
   description: outdoor cooking & barbecue equipment
   niche: outdoor cooking & barbecue equipment

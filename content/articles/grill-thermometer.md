@@ -65,7 +65,7 @@ These are complementary tools, not interchangeable ones. A charcoal griller runn
 
 ### Temperature Range and Accuracy
 
-Range matters more than most buyers expect. A thermometer rated to 400°F is fine for chicken thighs but useless for searing applications pushing 600°F or hotter. Smoking applications need a sensor that reads accurately in the 200, 275°F range, where a ten-degree error is a meaningful variance over a six-hour cook.
+Range matters more than most buyers expect. A thermometer rated to 400°F is fine for chicken thighs but useless for searing applications pushing 600°F or hotter. Smoking applications need a sensor that reads accurately in the 200-275°F range, where a ten-degree error is a meaningful variance over a six-hour cook.
 
 Accuracy isn't just a spec, it's a function of calibration, build quality, and how well the thermometer is maintained. Digital thermometers tend to hold calibration longer than analog dials, but analog gauges on quality bimetal mechanisms are more durable under sustained heat. Neither type is inherently superior; the question is what your cook demands.
 
@@ -109,7 +109,7 @@ Lid-mounted gauges live or die on two things: how far you can read them and how 
 
 Weatherproof construction matters in a gauge that's bolted to a lid through a full season of rain, steam, and grease. The mounting hardware is included, which removes the "wrong thread size" frustration that makes some dial gauge purchases immediately annoying. The easy-read numerals are a practical design choice, not a marketing detail.
 
-Analog dials need periodic calibration checks, that's a maintenance reality for any bimetal mechanism, not a specific fault of this gauge. Compared to unknown-spec alternatives at similar price bands, the 50, 800°F range gives more headroom than most cooks will ever use, which is the right direction to err.
+Analog dials need periodic calibration checks, that's a maintenance reality for any bimetal mechanism, not a specific fault of this gauge. Compared to unknown-spec alternatives at similar price bands, the 50-800°F range gives more headroom than most cooks will ever use, which is the right direction to err.
 
 [Check current price on Amazon.](product:bbq-thermometer-2-3-8)
 
@@ -117,7 +117,7 @@ Analog dials need periodic calibration checks, that's a maintenance reality for 
 
 The name Rubbermaid on a thermometer carries commercial kitchen credibility that no-brand alternatives don't. The [Rubbermaid Commercial Products Stainless Steel Monitoring Thermometer](product:rubbermaid-commercial-products-stainless-steel) was designed to live inside an oven or smoker and take continuous readings without degrading. Stainless steel construction at commercial grade handles the corrosion, grease, and moisture that a smoker environment generates over a long cook.
 
-The 60, 580°F range covers the full spectrum of low-and-slow smoking through high-heat grilling. For a backyard cook running a drum smoker or a kettle in indirect mode, having a reliable ambient monitor that you trust because it's built to institutional standards is worth something real.
+The 60-580°F range covers the full spectrum of low-and-slow smoking through high-heat grilling. For a backyard cook running a drum smoker or a kettle in indirect mode, having a reliable ambient monitor that you trust because it's built to institutional standards is worth something real.
 
 This is an analog monitor, which means you read it with your eyes at a distance. The trade-off is simplicity and durability, no batteries, no displays to fail, no connectivity to lose at the wrong moment. For the cook who wants a set-and-trust ambient gauge from a brand with actual commercial history, this is a defensible anchor to any thermometer setup.
 
@@ -149,9 +149,9 @@ Digital instant-reads offer precision to a fraction of a degree and respond in s
 
 ### Temperature Range Requirements
 
-A thermometer rated for a 200, 400°F range is adequate for most smoking sessions but insufficient for high-heat applications. Searing over direct charcoal, cooking pizza on a stone, or running a charcoal chimney check can push ambient temperatures past 600°F. A gauge with a 50, 800°F range doesn't make you a more extreme cook, it means the gauge won't peg at its maximum before you've finished your preheat.
+A thermometer rated for a 200-400°F range is adequate for most smoking sessions but insufficient for high-heat applications. Searing over direct charcoal, cooking pizza on a stone, or running a charcoal chimney check can push ambient temperatures past 600°F. A gauge with a 50-800°F range doesn't make you a more extreme cook, it means the gauge won't peg at its maximum before you've finished your preheat.
 
-For meat probes, the relevant range is narrower: 120, 210°F covers rare beef through brisket probe-tender territory. Most digital instant-reads handle this comfortably. The range ceiling matters more for ambient gauges.
+For meat probes, the relevant range is narrower: 120-210°F covers rare beef through brisket probe-tender territory. Most digital instant-reads handle this comfortably. The range ceiling matters more for ambient gauges.
 
 ### Weatherproofing and Durability
 

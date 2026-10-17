@@ -4,49 +4,62 @@ categories:
     hubs:
       - slug: offset-smokers
         label: Offset Smokers
+        description: "Traditional stick-burner smokers for when you want full control over heat and smoke — reviewed for firebox quality, draft control, and how much babysitting they actually need."
         articles: []
       - slug: pellet-smokers
         label: Pellet Smokers
+        description: "Set-it-and-go smokers that auto-feed wood pellets — compared on temperature consistency, smoke profile, and whether the convenience trade-off is worth it versus charcoal."
         articles: []
       - slug: electric-smokers
         label: Electric Smokers
+        description: "Plug-in smokers for apartment decks, HOA-restricted patios, or beginners who want controlled results before investing in a charcoal setup."
         articles: []
       - slug: kamado-grills
         label: Kamado Grills
+        description: "Ceramic egg-style cookers that grill, smoke, and bake — reviewed for heat retention, airflow precision, and durability against the price of the name-brand options."
         articles: []
       - slug: propane-smokers
         label: Propane Smokers
+        description: "Vertical propane smokers for consistent mid-range smoking — honest takes on whether they produce real BBQ flavor or just smoked heat."
         articles: []
   - slug: grills
     label: Grills
     hubs:
       - slug: gas-grills
         label: Gas Grills
+        description: "From two-burner weeknight workhorses to six-burner showpieces — reviewed for even heat distribution, BTU honesty, and long-term build quality."
         articles: []
       - slug: charcoal-grills
         label: Charcoal Grills
+        description: "Weber kettles, ceramic grills, and everything in between — the tools that produce the best flavor when you're willing to learn the fire."
         articles: []
       - slug: portable-grills
         label: Portable Grills
+        description: "Tailgate-friendly, camping-compatible, and small-patio-usable grills that actually cook well — not just fold up nicely."
         articles: []
       - slug: griddles
         label: Griddles
+        description: "Flat-top griddles for smash burgers, breakfast, and high-volume outdoor cooking — compared on heat evenness, grease management, and surface area."
         articles: []
       - slug: flat-top-grills
         label: Flat-Top Grills
+        description: "Blackstone and competitors reviewed on seasoning ease, side burner utility, and whether the flat top replaces your charcoal grill or just supplements it."
         articles: []
   - slug: outdoor-cooking
     label: Outdoor Cooking
     hubs:
       - slug: pizza-ovens
         label: Pizza Ovens
+        description: "Propane and wood-fired outdoor pizza ovens reviewed for temperature ceiling, preheat time, and whether they actually hit Neapolitan temperatures on a residential setup."
         articles: []
   - slug: accessories
     label: Accessories
     hubs:
       - slug: thermometers
         label: Thermometers
+        description: "Instant-read, leave-in probes, and wireless models reviewed for accuracy, probe durability, and real-world BBQ reliability."
         articles: []
       - slug: tools-and-grates
         label: Tools & Grates
+        description: "Grates, grill baskets, tongs, and the supporting gear that makes the difference between food sticking and food coming off clean."
         articles: []

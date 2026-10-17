@@ -1,2 +1,11 @@
 # Add site-specific 301 redirects here.
 # Format: /old-slug/ /new-slug/ 301
+
+/how-we-test/ /how-we-research/ 301
+
+# V1 dedup batch 2026-05-26 — 1 HIGH-confidence pair
+/best-pizza-oven-outdoor/ /best-outdoor-pizza-ovens/ 301
+/charbroil-gas-grill/ /char-broil-gas-grill/ 301
+
+# V1 dedup batch 2026-05-28 — 1 HIGH-confidence pair
+/charcoal-small-grills/ /small-charcoal-grill/ 301
